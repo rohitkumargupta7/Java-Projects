@@ -1,0 +1,5958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incident>
+	<ti table="120" tv="2Q2016" fv="1.0" at="2019-03-31T21:12:15Z">
+		<ev>
+			<id>23317403</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-74.00625" lat="40.717075" />
+				<addr>Worth St</addr>
+			</loc>
+			<valid start="2019-02-10T05:00:00Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on Worth St between W Broadway and Church St.</text>
+			<delay>8</delay>
+		</ev>
+		<ev>
+			<id>24820804</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95703" lat="40.583035" />
+				<addr>Guider Ave</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-04T03:59:59Z" />
+			<text lang="e">In Brooklyn, paving operations on Guider Ave between E 12th St and E 12th St.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>23145246</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.91586" lat="40.884857" />
+				<addr>W 232nd St</addr>
+			</loc>
+			<valid start="2019-02-04T19:43:40Z" end="2019-05-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on W 232nd St between Independence Ave and Palisade Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24049284</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16078" dir="+" offset="86" extent="14" />
+				
+			</loc>
+			<valid start="2019-03-02T05:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Creston Ave between Minerva Pl and E 198th St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24832966</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.76984" lat="40.70413" />
+				<addr>Dunlop Ave</addr>
+			</loc>
+			<valid start="2019-03-13T15:20:35Z" end="2019-04-16T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Dunlop Ave between Liberty Ave and Hannibal St.</text>
+		</ev>
+		<ev>
+			<id>24900316</id>
+			<ec>646</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="5941" dir="+" offset="87" extent="13" />
+				
+			</loc>
+			<valid start="2019-03-31T19:26:37Z" end="2019-03-31T21:23:05Z" />
+			<text lang="e">In Colonie, one lane blocked on I-787 SB near NY-7.</text>
+		</ev>
+		<ev>
+			<id>21997097</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.93765" lat="40.743305" />
+				<addr>30th St</addr>
+			</loc>
+			<valid start="2019-01-01T05:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 30th St between Thomson Ave and 47th Ave.</text>
+		</ev>
+		<ev>
+			<id>24832934</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98274" lat="40.702965" />
+				<addr>Water St</addr>
+			</loc>
+			<valid start="2019-03-13T16:59:51Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Water St between Gold St and Bridge St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24832947</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.94533" lat="40.793552" />
+				<addr>E 108th St</addr>
+			</loc>
+			<valid start="2019-03-04T14:25:10Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on E 108th St between Metro-North Rr and Lexington Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24832926</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.92464" lat="40.70239" />
+				<addr>Willoughby Ave</addr>
+			</loc>
+			<valid start="2019-01-01T21:38:21Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Willoughby Ave between Wilson Ave and Knickerbocker Ave.</text>
+			<delay>3</delay>
+		</ev>
+		<ev>
+			<id>24602593</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.90974" lat="40.818996" />
+				<addr>Eagle Ave</addr>
+			</loc>
+			<valid start="2019-03-21T04:00:00Z" end="2019-06-20T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Eagle Ave between Nycta Subway and E 156th St.</text>
+		</ev>
+		<ev>
+			<id>24129631</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83274" lat="40.76095" />
+				<addr>37th Ave</addr>
+			</loc>
+			<valid start="2019-03-05T05:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 37th Ave between Prince St and College Point Blvd.</text>
+		</ev>
+		<ev>
+			<id>24833022</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83194" lat="40.841232" />
+				<addr>Dudley Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:03:19Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Dudley Ave between Cornell Pl and Wellman Ave.</text>
+		</ev>
+		<ev>
+			<id>24836346</id>
+			<ec>742</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.36548" lat="42.240383" />
+				<addr>NY-42</addr>
+			</loc>
+			<valid start="2019-03-29T09:20:29Z" end="2019-04-01T09:25:29Z" />
+			<text lang="e">In Lexington, road construction on NY-42 NB between County Rd and Rappleyea Rd. Single line traffic-alternate directions.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24619020</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16632" dir="+" offset="10" extent="9" />
+				
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-23T03:58:59Z" />
+			<text lang="e">In Queens, road construction on Myrtle Ave between St Nicholas Ave and Woodbine St.</text>
+			<delay>133</delay>
+		</ev>
+		<ev>
+			<id>24800492</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.84359" lat="40.869087" />
+				<addr>Adee Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:38:25Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Adee Ave near E Gun Hill Rd.</text>
+		</ev>
+		<ev>
+			<id>24634061</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19451" dir="+" offset="43" extent="11" />
+				
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Broadway between Park Ave and Park St.</text>
+			<delay>138</delay>
+		</ev>
+		<ev>
+			<id>24458033</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.005295" lat="40.730797" />
+				<addr>Morton St</addr>
+			</loc>
+			<valid start="2019-03-16T04:00:00Z" end="2019-05-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Morton St between Bend and Bedford St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24500702</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.7756" lat="40.74949" />
+				<addr>53rd Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 53rd Ave between 203rd St and Clearview Expy.</text>
+			<delay>14</delay>
+		</ev>
+		<ev>
+			<id>24539554</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.8578" lat="40.899815" />
+				<addr>Bronx Blvd</addr>
+			</loc>
+			<valid start="2019-03-18T13:34:34Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Bronx Blvd near Nereid Ave.</text>
+			<delay>75</delay>
+		</ev>
+		<ev>
+			<id>24833020</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83206" lat="40.84038" />
+				<addr>Harrington Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:05:14Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Harrington Ave between Cornell Pl and Edison Ave.</text>
+		</ev>
+		<ev>
+			<id>24857382</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.9354" lat="40.777058" />
+				<addr>26th Ave</addr>
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-04-30T03:58:59Z" />
+			<text lang="e">In Queens, paving operations on 26th Ave between 1st St and 2nd St.</text>
+		</ev>
+		<ev>
+			<id>24835926</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83003" lat="40.84218" />
+				<addr>Crosby Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:03:26Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Crosby Ave near Dudley Ave.</text>
+			<delay>13</delay>
+		</ev>
+		<ev>
+			<id>24147584</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.9968" lat="40.594505" />
+				<addr>Shore Pkwy</addr>
+			</loc>
+			<valid start="2019-03-06T05:00:00Z" end="2019-04-08T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Shore Pkwy between 24th Ave and Dead End.</text>
+		</ev>
+		<ev>
+			<id>22109404</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95686" lat="40.722836" />
+				<addr>N 13th St</addr>
+			</loc>
+			<valid start="2019-01-04T19:44:22Z" end="2019-04-04T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on N 13th St between Wythe Ave and Kent Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24895087</id>
+			<ec>214</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.06371" lat="40.915936" />
+				<addr>Spring Valley Ave</addr>
+			</loc>
+			<valid start="2019-03-31T11:39:00Z" end="2019-03-31T21:41:06Z" />
+			<text lang="e">In Maywood, incident on Spring Valley Ave near Spring Valley Rd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24833040</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.9249" lat="40.82591" />
+				<addr>E 158th St</addr>
+			</loc>
+			<valid start="2019-03-18T13:24:37Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E 158th St between Grand Concourse and Walton Ave.</text>
+		</ev>
+		<ev>
+			<id>24832936</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.995026" lat="40.702488" />
+				<addr>Doughty St</addr>
+			</loc>
+			<valid start="2019-03-11T04:00:00Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Doughty St between Columbia Heights and Furman St.</text>
+		</ev>
+		<ev>
+			<id>24891490</id>
+			<ec>738</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="4737" dir="+" offset="27" extent="173" />
+				
+			</loc>
+			<valid start="2019-03-01T03:18:50Z" end="2019-04-01T04:17:45Z" />
+			<text lang="e">In Rutherford, road construction on NJ-3 EB between Park Ave and NJ-17. Left lane closed.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24832974</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.13496" lat="40.57795" />
+				<addr>Lighthouse Ave</addr>
+			</loc>
+			<valid start="2019-03-19T12:10:29Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on Lighthouse Ave between Edinboro Rd and Bend.</text>
+		</ev>
+		<ev>
+			<id>24651165</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.977875" lat="40.753098" />
+				<addr>Vanderbilt Ave</addr>
+			</loc>
+			<valid start="2019-03-23T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Vanderbilt Ave between E 43rd St and E 44th St.</text>
+		</ev>
+		<ev>
+			<id>24634053</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.938965" lat="40.6988" />
+				<addr>Park Ave</addr>
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Park Ave between Broadway and Marcus Garvey Blvd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24800494</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.84518" lat="40.869915" />
+				<addr>Dewitt Pl</addr>
+			</loc>
+			<valid start="2019-03-18T13:38:15Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Dewitt Pl near E Gun Hill Rd.</text>
+		</ev>
+		<ev>
+			<id>24500704</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77736" lat="40.749004" />
+				<addr>53rd Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 53rd Ave between 201st St and 202nd St.</text>
+			<delay>13</delay>
+		</ev>
+		<ev>
+			<id>24832945</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.94547" lat="40.812725" />
+				<addr>W 131st St</addr>
+			</loc>
+			<valid start="2019-03-12T20:09:12Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 131st St between 7th Ave and Lenox Ave.</text>
+			<delay>10</delay>
+		</ev>
+		<ev>
+			<id>24195194</id>
+			<ec>406</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="13760" dir="+" offset="0" extent="0" />
+				
+			</loc>
+			<valid start="2018-05-29T13:00:00Z" end="2019-05-30T03:59:59Z" />
+			<text lang="e">On-ramp closed on CT-349 SB near Brg.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24016613</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="10768" dir="-" offset="82" extent="2" />
+				
+			</loc>
+			<valid start="2019-02-27T20:24:00Z" end="2019-04-01T03:59:00Z" />
+			<text lang="e">In Brielle, road maintenance operations on NJ-35 NB near Manasquan River Brg.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24114051</id>
+			<ec>738</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.99047" lat="40.70726" />
+				<addr>Manhattan Brg</addr>
+			</loc>
+			<valid start="2019-03-04T05:00:00Z" end="2019-04-01T03:59:00Z" />
+			<text lang="e">In Manhattan, road construction on Manhattan Brg WB near Manhattan Bound. Left lane closed.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>23507019</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="17578" dir="+" offset="71" extent="29" />
+				
+			</loc>
+			<valid start="2019-02-16T10:00:00Z" end="2019-04-15T02:00:00Z" />
+			<text lang="e">In Queens, closed due to road construction on 31st St SB between Ditmars Blvd and 23rd Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24832993</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83706" lat="40.84134" />
+				<addr>Wellman Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:58:32Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Wellman Ave between Ericson Pl and Mayflower Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24832981</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.10438" lat="40.58937" />
+				<addr>E Loop Rd</addr>
+			</loc>
+			<valid start="2019-03-08T19:25:04Z" end="2019-04-08T03:58:59Z" />
+			<text lang="e">In Staten Island, road construction on E Loop Rd between Eastentry Rd and Bend.</text>
+		</ev>
+		<ev>
+			<id>24893802</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.99872" lat="40.639015" />
+				<addr>49th St</addr>
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on 49th St between 10th Ave and 9th Ave.</text>
+		</ev>
+		<ev>
+			<id>24834935</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.00219" lat="40.721622" />
+				<addr>Greene St</addr>
+			</loc>
+			<valid start="2019-03-29T13:00:00Z" end="2019-04-15T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on Greene St NB between Grand St and Canal St.</text>
+		</ev>
+		<ev>
+			<id>24500699</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77111" lat="40.75072" />
+				<addr>53rd Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 53rd Ave between 208th St and Oceania St.</text>
+			<delay>16</delay>
+		</ev>
+		<ev>
+			<id>24833038</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="18379" dir="+" offset="40" extent="6" />
+				
+			</loc>
+			<valid start="2019-03-18T13:38:16Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E Gun Hill Rd between Dewitt Pl and Knapp St.</text>
+			<delay>60</delay>
+		</ev>
+		<ev>
+			<id>24898594</id>
+			<ec>965</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="10504" dir="-" offset="0" extent="254" />
+				
+			</loc>
+			<valid start="2019-03-30T19:07:26Z" end="2019-03-31T21:42:42Z" />
+			<text lang="e">In Stafford, closed due to serious fire on NJ-72 WB between Atlantic Hills Blvd and CR-532.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24062953</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.96462" lat="40.718376" />
+				<addr>River St</addr>
+			</loc>
+			<valid start="2019-03-03T05:00:00Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on River St between N 3rd St and Metropolitan Ave.</text>
+		</ev>
+		<ev>
+			<id>24735450</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.84789" lat="40.729618" />
+				<addr>66th Rd</addr>
+			</loc>
+			<valid start="2019-03-26T04:00:00Z" end="2019-04-27T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 66th Rd between 108th St and 110th St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>22350375</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="17695" dir="+" offset="0" extent="0" />
+				
+			</loc>
+			<valid start="2019-01-11T22:14:02Z" end="2019-04-12T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on 114th St between Astoria Blvd and Northern Blvd.</text>
+			<delay>118</delay>
+		</ev>
+		<ev>
+			<id>24902154</id>
+			<ec>327</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="5444" dir="+" offset="0" extent="21" />
+				
+			</loc>
+			<valid start="2019-03-31T21:05:05Z" end="2019-03-31T21:38:06Z" />
+			<text lang="e">In Goshen, disabled vehicle on NY-17 EB near South St. Shoulder blocked.</text>
+		</ev>
+		<ev>
+			<id>24833007</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.85259" lat="40.893616" />
+				<addr>E 235th St</addr>
+			</loc>
+			<valid start="2019-03-18T12:52:14Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E 235th St between Bronxwood Ave and Barnes Ave.</text>
+		</ev>
+		<ev>
+			<id>24571330</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.13408" lat="40.578156" />
+				<addr>Edinboro Rd</addr>
+			</loc>
+			<valid start="2019-03-19T12:08:48Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on Edinboro Rd between Dead End and Lighthouse Ave.</text>
+		</ev>
+		<ev>
+			<id>24874006</id>
+			<ec>743</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="13428" dir="-" offset="0" extent="79" />
+				
+			</loc>
+			<valid start="2019-03-30T10:28:26Z" end="2019-04-01T10:33:26Z" />
+			<text lang="e">In Agawam Town, road construction on MA-147 EB between MA-75 and River St. Roadway reduced to one lane.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24833042</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="18379" dir="+" offset="28" extent="6" />
+				
+			</loc>
+			<valid start="2019-03-18T13:38:29Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E Gun Hill Rd between Eastchester Rd and Oneil Pl.</text>
+			<delay>61</delay>
+		</ev>
+		<ev>
+			<id>24833005</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.85865" lat="40.898563" />
+				<addr>Bronx Blvd</addr>
+			</loc>
+			<valid start="2019-03-18T13:34:32Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Bronx Blvd between E 237th St and Nereid Ave.</text>
+			<delay>75</delay>
+		</ev>
+		<ev>
+			<id>23317404</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-74.00754" lat="40.717663" />
+				<addr>Worth St</addr>
+			</loc>
+			<valid start="2019-02-10T05:00:00Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on Worth St between W Broadway and Hudson St.</text>
+			<delay>8</delay>
+		</ev>
+		<ev>
+			<id>23482006</id>
+			<ec>739</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="19708" dir="-" offset="14" extent="83" />
+				
+			</loc>
+			<valid start="2019-01-02T14:16:17Z" end="2019-11-09T05:00:00Z" />
+			<text lang="e">In Greenburgh, road construction on NY-100C WB between Woods Rd and Saw Mill River Rd. Shoulder closed.</text>
+			<delay>5</delay>
+		</ev>
+		<ev>
+			<id>24857352</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.934525" lat="40.776775" />
+				<addr>2nd St</addr>
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-04-30T03:58:59Z" />
+			<text lang="e">In Queens, paving operations on 2nd St near 26th Ave.</text>
+		</ev>
+		<ev>
+			<id>24500677</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.771675" lat="40.750565" />
+				<addr>53rd Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 53rd Ave between 207th St and 208th St.</text>
+			<delay>16</delay>
+		</ev>
+		<ev>
+			<id>24832924</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.90076" lat="40.65723" />
+				<addr>Powell St</addr>
+			</loc>
+			<valid start="2019-03-06T16:57:53Z" end="2019-05-17T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Powell St between New Lots Ave and Hegeman Ave.</text>
+		</ev>
+		<ev>
+			<id>24651162</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.93809" lat="40.69809" />
+				<addr>Lewis Ave</addr>
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Lewis Ave between Stockton St and Broadway.</text>
+			<delay>52</delay>
+		</ev>
+		<ev>
+			<id>23607095</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.09602" lat="40.608536" />
+				<addr>Douglas Rd</addr>
+			</loc>
+			<valid start="2019-02-18T05:00:00Z" end="2019-05-20T03:58:59Z" />
+			<text lang="e">In Staten Island, road maintenance operations on Douglas Rd near Silver Beach Dr.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24832972</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.13364" lat="40.58189" />
+				<addr>London Rd</addr>
+			</loc>
+			<valid start="2019-03-19T12:13:03Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on London Rd between Kent St and Esther Depew St.</text>
+		</ev>
+		<ev>
+			<id>24803111</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.14153" lat="40.574425" />
+				<addr>St George Rd</addr>
+			</loc>
+			<valid start="2019-03-27T11:31:31Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on St George Rd between Lighthouse Ave and Rigby Ave.</text>
+		</ev>
+		<ev>
+			<id>24735451</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.8938" lat="40.747692" />
+				<addr>72nd St</addr>
+			</loc>
+			<valid start="2019-03-25T14:17:42Z" end="2019-04-07T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on 72nd St between Broadway and Roosevelt Ave.</text>
+		</ev>
+		<ev>
+			<id>24701131</id>
+			<ec>641</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="5129" dir="+" offset="0" extent="37" />
+				
+			</loc>
+			<valid start="2019-03-25T05:10:00Z" end="2019-11-01T03:56:00Z" />
+			<text lang="e">In Bronx, one lane closed on Henry Hudson Brg SB between Bronx and Manhattan.</text>
+			<delay>4</delay>
+		</ev>
+		<ev>
+			<id>24571333</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.90351" lat="40.860916" />
+				<addr>W 184th St</addr>
+			</loc>
+			<valid start="2019-03-19T15:52:24Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on W 184th St between Davidson Ave and Grand Ave.</text>
+		</ev>
+		<ev>
+			<id>24702099</id>
+			<ec>408</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="28720" dir="-" offset="0" extent="0" />
+				<main id="4967" dir="+" />
+				
+			</loc>
+			<valid start="2018-07-10T22:15:09Z" end="2019-04-01T01:48:02Z" />
+			<text lang="e">On-ramps and off-ramps closed on US-1 SB near Broadway.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24880227</id>
+			<ec>1527</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.00758" lat="41.443195" />
+				<addr>NY-218</addr>
+			</loc>
+			<valid start="2019-02-02T13:04:00Z" end="2019-04-01T18:52:58Z" />
+			<text lang="e">In Cornwall, closed due to major event on NY-218 SB between Ny 293 and Winterview Ln.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24800487</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19222" dir="+" offset="62" extent="1" />
+				
+			</loc>
+			<valid start="2019-03-18T13:05:06Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E Tremont Ave near Harrington Ave.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>23482102</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="6248" dir="+" offset="0" extent="13" />
+				
+			</loc>
+			<valid start="2018-07-01T04:00:00Z" end="2020-01-01T04:59:00Z" />
+			<text lang="e">In Champlain, road construction on I-87 SB near US-9.</text>
+			<delay>39</delay>
+		</ev>
+		<ev>
+			<id>24539691</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.827675" lat="40.83988" />
+				<addr>La Salle Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:21:15Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on La Salle Ave between Hollywood Ave and Merry Ave.</text>
+		</ev>
+		<ev>
+			<id>24820810</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.97491" lat="40.679955" />
+				<addr>St Marks Ave</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Hempstead, road construction on St Marks Ave between 6th Ave and Flatbush Ave.</text>
+		</ev>
+		<ev>
+			<id>24075165</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.89014" lat="40.85182" />
+				<addr>Arthur Ave</addr>
+			</loc>
+			<valid start="2019-03-03T05:00:00Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Arthur Ave between Oak Tree Pl and Bend.</text>
+		</ev>
+		<ev>
+			<id>24832995</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.835" lat="40.839783" />
+				<addr>Dudley Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:03:07Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Dudley Ave between Mayflower Ave and William Pl.</text>
+		</ev>
+		<ev>
+			<id>24820824</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19052" dir="+" offset="23" extent="5" />
+				
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-05-08T03:58:59Z" />
+			<text lang="e">In Queens, road construction on Roosevelt Ave between Janet Pl and College Point Blvd.</text>
+			<delay>27</delay>
+		</ev>
+		<ev>
+			<id>24833027</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.82967" lat="40.84061" />
+				<addr>Coddington Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:15:33Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Coddington Ave between Crosby Ave and Hobart Ave.</text>
+		</ev>
+		<ev>
+			<id>24805545</id>
+			<ec>738</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="11186" dir="+" offset="18" extent="0" />
+				
+			</loc>
+			<valid start="2019-03-28T11:29:59Z" end="2019-04-01T04:00:00Z" />
+			<text lang="e">In La Grange, road construction on Taconic State Pkwy SB near Baird Park Rd. Left lane closed.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24075163</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.87917" lat="40.828583" />
+				<addr>Elder Ave</addr>
+			</loc>
+			<valid start="2019-03-03T05:00:00Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Elder Ave between E 172nd St and Nycta Subway.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24901925</id>
+			<ec>63</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="4108" dir="+" offset="0" extent="0" />
+				
+			</loc>
+			<valid start="2019-03-31T20:52:43Z" end="2019-03-31T21:46:27Z" />
+			<text lang="e">In Newburgh town, object on roadway on I-87 SB near NY-17K. Caution.</text>
+		</ev>
+		<ev>
+			<id>24309740</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16714" dir="-" offset="53" extent="3" />
+				
+			</loc>
+			<valid start="2019-03-11T04:00:00Z" end="2019-04-11T03:58:59Z" />
+			<text lang="e">In Manhattan, road maintenance operations on Park Row near Spruce St.</text>
+			<delay>11</delay>
+		</ev>
+		<ev>
+			<id>24888564</id>
+			<ec>736</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="10768" dir="+" offset="0" extent="21" />
+				
+			</loc>
+			<valid start="2019-03-29T00:30:18Z" end="2019-04-01T00:41:20Z" />
+			<text lang="e">In Brielle, road construction on NJ-35 SB between Union Ave and Ashley Ave. Right lane closed.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24874007</id>
+			<ec>743</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="13423" dir="+" offset="0" extent="0" />
+				
+			</loc>
+			<valid start="2019-03-30T10:28:11Z" end="2019-04-01T10:33:11Z" />
+			<text lang="e">In West Springfield Town, road construction on MA-147 WB between River St and MA-75. Roadway reduced to one lane.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24857383</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.9354" lat="40.777058" />
+				<addr>1st St</addr>
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-04-30T03:58:59Z" />
+			<text lang="e">In Queens, paving operations on 1st St between 26th Ave and 27th Ave.</text>
+		</ev>
+		<ev>
+			<id>24651163</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.97743" lat="40.753716" />
+				<addr>E 44th St</addr>
+			</loc>
+			<valid start="2019-03-23T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on E 44th St between Vanderbilt Ave and Madison Ave.</text>
+		</ev>
+		<ev>
+			<id>24619015</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.91331" lat="40.69841" />
+				<addr>Gates Ave</addr>
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-23T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Gates Ave between Irving Ave and Myrtle Ave.</text>
+		</ev>
+		<ev>
+			<id>24800479</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77191" lat="40.704647" />
+				<addr>Babylon Ave</addr>
+			</loc>
+			<valid start="2019-03-13T15:17:30Z" end="2019-04-16T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Babylon Ave near Liberty Ave.</text>
+		</ev>
+		<ev>
+			<id>23166965</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95933" lat="40.740803" />
+				<addr>54th Ave</addr>
+			</loc>
+			<valid start="2019-02-06T05:00:00Z" end="2019-05-08T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 54th Ave between Center Blvd and 2nd St.</text>
+		</ev>
+		<ev>
+			<id>24634049</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.93676" lat="40.69783" />
+				<addr>Arion Pl</addr>
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Arion Pl near Broadway.</text>
+		</ev>
+		<ev>
+			<id>24836341</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="9303" dir="-" offset="0" extent="3" />
+				
+			</loc>
+			<valid start="2019-03-29T09:20:29Z" end="2019-04-01T09:25:29Z" />
+			<text lang="e">In Hague, closed due to road construction on NY-9N NB between Dock Rd and Locust Ln.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24891186</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="17578" dir="+" offset="5" extent="1" />
+				
+			</loc>
+			<valid start="2019-03-31T11:00:00Z" end="2019-04-01T00:00:00Z" />
+			<text lang="e">In Queens, closed due to road construction on 31st St SB near Hoyt Ave.</text>
+			<delay>18</delay>
+		</ev>
+		<ev>
+			<id>24634058</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19451" dir="+" offset="32" extent="20" />
+				
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Broadway between Lewis Ave and Lewis Ave.</text>
+			<delay>148</delay>
+		</ev>
+		<ev>
+			<id>24619012</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16632" dir="+" offset="19" extent="10" />
+				
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-23T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Myrtle Ave between Gates Ave and Palmetto St.</text>
+			<delay>149</delay>
+		</ev>
+		<ev>
+			<id>24820823</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19052" dir="-" offset="7" extent="38" />
+				
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-05-08T03:58:59Z" />
+			<text lang="e">In Queens, road construction on Roosevelt Ave between 126th St and Water.</text>
+			<delay>22</delay>
+		</ev>
+		<ev>
+			<id>24803125</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.13039" lat="40.576538" />
+				<addr>St George Rd</addr>
+			</loc>
+			<valid start="2019-03-27T11:31:23Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on St George Rd between Boyle Pl and Mc Cully Ave.</text>
+		</ev>
+		<ev>
+			<id>24800499</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.86028" lat="40.89687" />
+				<addr>Bullard Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:36:06Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Bullard Ave near E 236th St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24833019</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83253" lat="40.84095" />
+				<addr>Dudley Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:03:16Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Dudley Ave between Cornell Pl and Edison Ave.</text>
+		</ev>
+		<ev>
+			<id>24129635</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.9103" lat="40.85301" />
+				<addr>Grand Ave</addr>
+			</loc>
+			<valid start="2019-03-04T14:35:46Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Grand Ave between W Tremont Ave and W Burnside Ave.</text>
+		</ev>
+		<ev>
+			<id>23482237</id>
+			<ec>738</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="4130" dir="+" offset="40" extent="3" />
+				
+			</loc>
+			<valid start="2018-04-17T14:00:00Z" end="2019-11-23T04:59:00Z" />
+			<text lang="e">In Newburgh town, road construction on I-84 WB near Newburgh. Left lane closed.</text>
+			<delay>6</delay>
+		</ev>
+		<ev>
+			<id>21065620</id>
+			<ec>641</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="9659" dir="+" offset="10" extent="24" />
+				
+			</loc>
+			<valid start="2018-12-03T18:48:00Z" end="2019-04-01T01:51:01Z" />
+			<text lang="e">In Hadley, one lane closed on MA-9 WB between Aqua Vitae Rd and Bridge St.</text>
+			<delay>6</delay>
+		</ev>
+		<ev>
+			<id>23846700</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.00705" lat="40.71827" />
+				<addr>Leonard St</addr>
+			</loc>
+			<valid start="2019-02-25T05:00:00Z" end="2019-05-09T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Leonard St between W Broadway and Hudson St.</text>
+		</ev>
+		<ev>
+			<id>24702073</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.13531" lat="40.579765" />
+				<addr>Lowell St</addr>
+			</loc>
+			<valid start="2019-03-19T12:13:03Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on Lowell St between Scheffelin Ave and Meisner Ave.</text>
+		</ev>
+		<ev>
+			<id>23607101</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.09646" lat="40.608776" />
+				<addr>Twin Oak Dr</addr>
+			</loc>
+			<valid start="2019-02-18T05:00:00Z" end="2019-05-20T03:58:59Z" />
+			<text lang="e">In Staten Island, road maintenance operations on Twin Oak Dr between Dead End and Silver Beech Rd.</text>
+		</ev>
+		<ev>
+			<id>24500692</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.733475" lat="40.76654" />
+				<addr>Deepdale Pl</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Deepdale Pl between Rushmore Ter and Thebes Ave.</text>
+		</ev>
+		<ev>
+			<id>24833001</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="18379" dir="+" offset="38" extent="5" />
+				
+			</loc>
+			<valid start="2019-03-18T13:38:19Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E Gun Hill Rd between Fenton Ave and Knapp St.</text>
+			<delay>60</delay>
+		</ev>
+		<ev>
+			<id>24500618</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73516" lat="40.769547" />
+				<addr>Browvale Ln</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Browvale Ln near Hand Rd.</text>
+		</ev>
+		<ev>
+			<id>24800528</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.830475" lat="40.8492" />
+				<addr>Mahan Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:54:23Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Mahan Ave near Willow Ln.</text>
+		</ev>
+		<ev>
+			<id>24500619</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73357" lat="40.76771" />
+				<addr>Beechknoll Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Beechknoll Ave near Dead End.</text>
+		</ev>
+		<ev>
+			<id>24062951</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.9084" lat="40.880817" />
+				<addr>Tibbett Ave</addr>
+			</loc>
+			<valid start="2019-03-03T05:00:00Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Tibbett Ave near W 231st St.</text>
+		</ev>
+		<ev>
+			<id>22043482</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.92124" lat="40.76838" />
+				<addr>30th St</addr>
+			</loc>
+			<valid start="2019-01-02T20:19:10Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on 30th St between 30th Ave and Newtown Ave.</text>
+		</ev>
+		<ev>
+			<id>24506292</id>
+			<ec>401</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.97582" lat="40.76041" />
+				<addr>W 53rd St</addr>
+			</loc>
+			<valid start="2019-03-23T11:00:00Z" end="2019-04-01T01:00:00Z" />
+			<text lang="e">In Manhattan, closed on W 53rd St WB between 5th Ave and 6th Ave.</text>
+		</ev>
+		<ev>
+			<id>24500685</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.72969" lat="40.767178" />
+				<addr>Brattle Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Brattle Ave between Leeds Rd and Leith Pl.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24895944</id>
+			<ec>514</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="6767" dir="+" offset="0" extent="8" />
+				
+			</loc>
+			<valid start="2019-01-04T19:30:39Z" end="2019-03-31T21:30:50Z" />
+			<text lang="e">In Queens, roadway reduced to one lane on NY-25A WB near 108th St.</text>
+			<delay>23</delay>
+		</ev>
+		<ev>
+			<id>24832961</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.94618" lat="40.745613" />
+				<addr>46th Ave</addr>
+			</loc>
+			<valid start="2019-03-21T14:53:59Z" end="2019-04-22T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 46th Ave between Jackson Ave and Bend.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24800529</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.82969" lat="40.847977" />
+				<addr>Buhre Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:54:20Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Buhre Ave near Mahan Ave.</text>
+			<delay>22</delay>
+		</ev>
+		<ev>
+			<id>24800480</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.773125" lat="40.701946" />
+				<addr>Dunkirk St</addr>
+			</loc>
+			<valid start="2019-03-13T15:20:31Z" end="2019-04-16T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Dunkirk St near Dunlop Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>22043477</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.79483" lat="40.69505" />
+				<addr>108th Ave</addr>
+			</loc>
+			<valid start="2019-01-02T19:14:58Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on 108th Ave between "Long Island Railroad" and 157th St.</text>
+		</ev>
+		<ev>
+			<id>24800503</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.853676" lat="40.893955" />
+				<addr>Barnes Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:52:13Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Barnes Ave near E 235th St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24338521</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.900925" lat="40.852863" />
+				<addr>Ryer Ave</addr>
+			</loc>
+			<valid start="2019-03-12T04:00:00Z" end="2019-04-14T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Ryer Ave between E Burnside Ave and E 180th St.</text>
+		</ev>
+		<ev>
+			<id>24883008</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.949356" lat="40.69612" />
+				<addr>Stockton St</addr>
+			</loc>
+			<valid start="2019-03-31T04:00:00Z" end="2019-06-30T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Stockton St between Marcy Ave and Tompkins Ave.</text>
+		</ev>
+		<ev>
+			<id>24835928</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.00236" lat="40.717686" />
+				<addr>Cortlandt Aly</addr>
+			</loc>
+			<valid start="2019-03-28T16:27:01Z" end="2019-04-22T03:58:59Z" />
+			<text lang="e">In Manhattan, road maintenance operations on Cortlandt Aly between Walker St and White St.</text>
+		</ev>
+		<ev>
+			<id>24571319</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.14229" lat="40.57611" />
+				<addr>Edinboro Rd</addr>
+			</loc>
+			<valid start="2019-03-19T12:08:49Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on Edinboro Rd between Lighthouse Ave and Rigby Ave.</text>
+		</ev>
+		<ev>
+			<id>23269057</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.73043" lat="40.72464" />
+				<addr>Gettysburg St</addr>
+			</loc>
+			<valid start="2019-02-07T17:07:48Z" end="2019-05-08T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on Gettysburg St between 93rd Ave and Fairbury Ave.</text>
+		</ev>
+		<ev>
+			<id>24832975</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.135056" lat="40.578796" />
+				<addr>London Rd</addr>
+			</loc>
+			<valid start="2019-03-19T12:13:00Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on London Rd between Bend and Meisner Ave.</text>
+		</ev>
+		<ev>
+			<id>24833021</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83194" lat="40.841232" />
+				<addr>Cornell Pl</addr>
+			</loc>
+			<valid start="2019-03-18T13:09:13Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Cornell Pl between Dudley Ave and Wellman Ave.</text>
+		</ev>
+		<ev>
+			<id>24832938</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.004166" lat="40.604656" />
+				<addr>Bay 19th St</addr>
+			</loc>
+			<valid start="2019-02-22T21:04:05Z" end="2019-05-13T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Bay 19th St between Benson Ave and 86th St.</text>
+		</ev>
+		<ev>
+			<id>23043371</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.99556" lat="40.730717" />
+				<addr>Waverly Pl</addr>
+			</loc>
+			<valid start="2019-02-02T05:00:00Z" end="2019-05-04T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on Waverly Pl between University Pl and Greene St.</text>
+		</ev>
+		<ev>
+			<id>24883012</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.90351" lat="40.860916" />
+				<addr>Davidson Ave</addr>
+			</loc>
+			<valid start="2019-03-31T04:00:00Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Davidson Ave between W 184th St and W Fordham Rd.</text>
+		</ev>
+		<ev>
+			<id>24832348</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.95795" lat="40.816376" />
+				<addr>W 129th St</addr>
+			</loc>
+			<valid start="2019-03-31T13:00:00Z" end="2019-03-31T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on W 129th St WB between Broadway and W 125th St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24500674</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.005646" lat="40.731552" />
+				<addr>Commerce St</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-21T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Commerce St between Bend and Barrow St.</text>
+			<delay>2</delay>
+		</ev>
+		<ev>
+			<id>24629873</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.96155" lat="40.76843" />
+				<addr>E 70th St</addr>
+			</loc>
+			<valid start="2019-03-23T13:00:00Z" end="2019-03-31T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on E 70th St EB between 3rd Ave and 2nd Ave.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24012242</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.945786" lat="40.79292" />
+				<addr>E 107th St</addr>
+			</loc>
+			<valid start="2019-03-01T05:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on E 107th St between Metro-North Rr and Lexington Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24800504</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19222" dir="+" offset="28" extent="2" />
+				
+			</loc>
+			<valid start="2019-03-18T13:22:53Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E Tremont Ave near Puritan Ave.</text>
+			<delay>3</delay>
+		</ev>
+		<ev>
+			<id>24832958</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="15563" dir="+" offset="0" extent="62" />
+				
+			</loc>
+			<valid start="2019-03-16T04:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Ann St between Gold St and William St.</text>
+			<delay>28</delay>
+		</ev>
+		<ev>
+			<id>24539645</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83467" lat="40.841393" />
+				<addr>Wellman Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:58:35Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Wellman Ave between Edison Ave and Mayflower Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24833028</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.828766" lat="40.840965" />
+				<addr>Coddington Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:15:36Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Coddington Ave between Hobart Ave and Merry Ave.</text>
+		</ev>
+		<ev>
+			<id>24857366</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="17617" dir="-" offset="6" extent="94" />
+				
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 66th St between Central Park and Columbus Ave.</text>
+			<delay>14</delay>
+		</ev>
+		<ev>
+			<id>24633886</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.96519" lat="40.791" />
+				<addr>W 95th St</addr>
+			</loc>
+			<valid start="2019-03-24T13:00:00Z" end="2019-03-31T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on W 95th St WB between Central Park W and Columbus Ave.</text>
+		</ev>
+		<ev>
+			<id>22332105</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="15473" dir="-" offset="94" extent="15" />
+				
+			</loc>
+			<valid start="2019-01-12T05:00:00Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 155th St between Harlem River Dr and Edgecombe Ave.</text>
+			<delay>32</delay>
+		</ev>
+		<ev>
+			<id>24820805</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.02355" lat="40.63932" />
+				<addr>65th St</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-04T03:59:59Z" />
+			<text lang="e">In Brooklyn, paving operations on 65th St between 3rd Ave and 4th Ave.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24726414</id>
+			<ec>1527</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.99756" lat="41.386776" />
+				<addr>NY-218</addr>
+			</loc>
+			<valid start="2019-02-02T13:04:00Z" end="2019-04-01T18:52:58Z" />
+			<text lang="e">In Highlands, closed due to major event on NY-218 NB between Ny 293 and Storm King Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24650842</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.923386" lat="40.823097" />
+				<addr>Sheridan Ave</addr>
+			</loc>
+			<valid start="2019-03-23T04:00:00Z" end="2019-04-23T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Sheridan Ave between E 153rd St and E 156th St.</text>
+		</ev>
+		<ev>
+			<id>24539680</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83146" lat="40.840664" />
+				<addr>Harrington Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:05:17Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Harrington Ave between Cornell Pl and Gillespie Ave.</text>
+		</ev>
+		<ev>
+			<id>24650835</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="15346" dir="+" offset="0" extent="46" />
+				
+			</loc>
+			<valid start="2019-03-23T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on E 60th St between York Ave and F D R Dr.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24702071</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.14153" lat="40.574425" />
+				<addr>Lighthouse Ave</addr>
+			</loc>
+			<valid start="2019-03-19T12:10:34Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on Lighthouse Ave between St Andrews Rd and St George Rd.</text>
+		</ev>
+		<ev>
+			<id>24803122</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.12725" lat="40.577553" />
+				<addr>St George Rd</addr>
+			</loc>
+			<valid start="2019-03-27T11:31:18Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on St George Rd between Lawn Ave and Rockland Ave.</text>
+		</ev>
+		<ev>
+			<id>24901498</id>
+			<ec>942</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="5003" dir="+" offset="3" extent="240" />
+				
+			</loc>
+			<valid start="2019-03-31T19:35:00Z" end="2019-03-31T21:27:23Z" />
+			<text lang="e">In Brooklyn, flooding on I-278 WB between Flushing Ave and Manhattan Brg. Passable with care.</text>
+		</ev>
+		<ev>
+			<id>24129632</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.8311" lat="40.658703" />
+				<addr>160th Ave</addr>
+			</loc>
+			<valid start="2019-03-04T17:57:57Z" end="2019-05-30T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on 160th Ave between 102nd St and Dead End.</text>
+		</ev>
+		<ev>
+			<id>24901726</id>
+			<ec>201</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="4674" dir="-" offset="79" extent="21" />
+				
+			</loc>
+			<valid start="2019-03-31T20:39:46Z" end="2019-03-31T21:29:46Z" />
+			<text lang="e">In Irvington, accident on Garden State Pky NB near Madison Ave.</text>
+		</ev>
+		<ev>
+			<id>24800507</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83195" lat="40.838585" />
+				<addr>Bradford Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:18:43Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Bradford Ave near La Salle Ave.</text>
+		</ev>
+		<ev>
+			<id>23043375</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.996574" lat="40.729553" />
+				<addr>W 4th St</addr>
+			</loc>
+			<valid start="2019-02-02T05:00:00Z" end="2019-05-04T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on W 4th St between Washington Sq and Greene St.</text>
+		</ev>
+		<ev>
+			<id>24820822</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19052" dir="-" offset="0" extent="5" />
+				
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-05-08T03:58:59Z" />
+			<text lang="e">In Queens, road construction on Roosevelt Ave between Van Wyck Expy and Water.</text>
+			<delay>24</delay>
+		</ev>
+		<ev>
+			<id>24800521</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.82936" lat="40.83958" />
+				<addr>Crosby Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:18:52Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Crosby Ave near La Salle Ave.</text>
+			<delay>11</delay>
+		</ev>
+		<ev>
+			<id>24832944</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="15472" dir="-" offset="54" extent="74" />
+				
+			</loc>
+			<valid start="2019-01-12T05:00:00Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 155th St between 8th Ave and Bradhurst Ave.</text>
+			<delay>4</delay>
+		</ev>
+		<ev>
+			<id>24832970</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.13611" lat="40.575314" />
+				<addr>St George Rd</addr>
+			</loc>
+			<valid start="2019-03-27T11:31:29Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on St George Rd between Aultman Ave and Dead End.</text>
+		</ev>
+		<ev>
+			<id>24634055</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19451" dir="+" offset="11" extent="11" />
+				
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Broadway between Arion Pl and Stockton St.</text>
+			<delay>170</delay>
+		</ev>
+		<ev>
+			<id>24650843</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.89233" lat="40.84985" />
+				<addr>La Fontaine Ave</addr>
+			</loc>
+			<valid start="2019-03-23T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on La Fontaine Ave between E 180th St and E 181st St.</text>
+		</ev>
+		<ev>
+			<id>24500695</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73652" lat="40.766804" />
+				<addr>Beechknoll Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Beechknoll Ave between Dead End and Marathon Pkwy.</text>
+		</ev>
+		<ev>
+			<id>23759316</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.79889" lat="40.59083" />
+				<addr>Beach 70th St</addr>
+			</loc>
+			<valid start="2019-02-21T13:58:53Z" end="2019-05-23T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on Beach 70th St between Beach Channel Dr and Dead End.</text>
+		</ev>
+		<ev>
+			<id>24718124</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.74744" lat="40.60693" />
+				<addr>Beach 12th St</addr>
+			</loc>
+			<valid start="2019-03-26T04:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Queens, road construction on Beach 12th St between Dinsmore Ave and Channing Rd.</text>
+		</ev>
+		<ev>
+			<id>24634057</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19451" dir="+" offset="23" extent="15" />
+				
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Broadway between Belvedere St and Lewis Ave.</text>
+			<delay>158</delay>
+		</ev>
+		<ev>
+			<id>24500701</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77376" lat="40.749996" />
+				<addr>53rd Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 53rd Ave between 206th St and Clearview Expy.</text>
+			<delay>16</delay>
+		</ev>
+		<ev>
+			<id>24195140</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.83929" lat="40.911686" />
+				<addr>Wilson Pl</addr>
+			</loc>
+			<valid start="2018-12-10T14:54:00Z" end="2020-01-01T04:59:00Z" />
+			<text lang="e">In Mount Vernon, closed due to road construction on Wilson Pl SB between Stevens Ave and 1st St.</text>
+		</ev>
+		<ev>
+			<id>24901298</id>
+			<ec>646</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="11267" dir="+" offset="6" extent="6" />
+				
+			</loc>
+			<valid start="2019-03-31T20:06:54Z" end="2019-03-31T21:26:02Z" />
+			<text lang="e">In East Greenbush, one lane blocked on US-9 near Old Troy Rd.</text>
+		</ev>
+		<ev>
+			<id>24820821</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="18984" dir="+" offset="32" extent="16" />
+				
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-06T03:59:59Z" />
+			<text lang="e">In Brooklyn, paving operations on Ralph Ave between Bainbridge St and Decatur St.</text>
+			<delay>48</delay>
+		</ev>
+		<ev>
+			<id>24896147</id>
+			<ec>214</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19424" dir="+" offset="0" extent="11" />
+				
+			</loc>
+			<valid start="2019-03-31T14:00:15Z" end="2019-04-01T01:00:00Z" />
+			<text lang="e">In Manhattan, incident on Broadway SB between 35th St and 34th St.</text>
+			<delay>42</delay>
+		</ev>
+		<ev>
+			<id>24214076</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.7315" lat="40.72292" />
+				<addr>93rd Rd</addr>
+			</loc>
+			<valid start="2019-03-08T05:00:00Z" end="2019-06-05T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on 93rd Rd between 224th St and Gettysburg St.</text>
+		</ev>
+		<ev>
+			<id>24718121</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="15520" dir="+" offset="0" extent="26" />
+				
+			</loc>
+			<valid start="2019-03-26T04:00:00Z" end="2019-05-20T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on 243rd St between Jamaica Ave and 93rd Ave.</text>
+			<delay>5</delay>
+		</ev>
+		<ev>
+			<id>24832929</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16152" dir="-" offset="4" extent="20" />
+				
+			</loc>
+			<valid start="2019-03-14T19:12:15Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Eastern Pkwy between Rochester Ave and Utica Ave.</text>
+			<delay>278</delay>
+		</ev>
+		<ev>
+			<id>24049044</id>
+			<ec>409</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="28660" dir="-" offset="0" extent="0" />
+				<main id="4366" dir="+" />
+				
+			</loc>
+			<valid start="2018-11-12T05:00:00Z" end="2019-08-01T03:59:00Z" />
+			<text lang="e">Ramp restrictions on I-87 SB near I-95.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24500625</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73378" lat="40.765778" />
+				<addr>Deepdale Pl</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Deepdale Pl near Rushmore Ter.</text>
+		</ev>
+		<ev>
+			<id>24500682</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73774" lat="40.766685" />
+				<addr>Zion St</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Zion St between Bend and Thebes Ave.</text>
+		</ev>
+		<ev>
+			<id>23482264</id>
+			<ec>500</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="12813" dir="+" offset="1" extent="1" />
+				
+			</loc>
+			<valid start="2018-04-16T13:00:00Z" end="2019-09-12T04:00:00Z" />
+			<text lang="e">In New Haven, lane closed on CT-69 SB near Wilbur Cross Pkwy.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24675750</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19003" dir="+" offset="0" extent="6" />
+				
+			</loc>
+			<valid start="2019-03-24T04:00:00Z" end="2019-04-25T03:58:59Z" />
+			<text lang="e">In Staten Island, road construction on Richmond Ter between Bayonne Brg and Bayonne Brg.</text>
+			<delay>19</delay>
+		</ev>
+		<ev>
+			<id>24832939</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-74.01051" lat="40.715324" />
+				<addr>Warren St</addr>
+			</loc>
+			<valid start="2019-03-11T21:36:25Z" end="2019-05-24T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on Warren St between Greenwich St and W Broadway.</text>
+		</ev>
+		<ev>
+			<id>24500679</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.733475" lat="40.76654" />
+				<addr>Thebes Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Thebes Ave between Dead End and Deepdale Pl.</text>
+		</ev>
+		<ev>
+			<id>22313676</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.07435" lat="40.612785" />
+				<addr>White Plains Ave</addr>
+			</loc>
+			<valid start="2019-01-11T05:00:00Z" end="2019-04-12T03:58:59Z" />
+			<text lang="e">In Staten Island, road maintenance operations on White Plains Ave between St Marys Ave and Amity St.</text>
+		</ev>
+		<ev>
+			<id>24857355</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98228" lat="40.674" />
+				<addr>1st St</addr>
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on 1st St between 5th Ave and 6th Ave.</text>
+		</ev>
+		<ev>
+			<id>24267939</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.089935" lat="40.61105" />
+				<addr>Concord Pl</addr>
+			</loc>
+			<valid start="2019-03-08T18:46:38Z" end="2019-04-08T03:58:59Z" />
+			<text lang="e">In Staten Island, road construction on Concord Pl between Unnamed St and Starbuck St.</text>
+		</ev>
+		<ev>
+			<id>24800477</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77113" lat="40.705685" />
+				<addr>104th Ave</addr>
+			</loc>
+			<valid start="2019-03-13T15:11:09Z" end="2019-04-16T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 104th Ave near 186th St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>22043480</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.90766" lat="40.753643" />
+				<addr>53rd Pl</addr>
+			</loc>
+			<valid start="2019-01-02T20:21:56Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on 53rd Pl between Broadway and Northern Blvd.</text>
+		</ev>
+		<ev>
+			<id>21982876</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16729" dir="-" offset="0" extent="13" />
+				
+			</loc>
+			<valid start="2019-01-01T05:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Park Ave between E 41st St and E 42nd St.</text>
+			<delay>89</delay>
+		</ev>
+		<ev>
+			<id>23482265</id>
+			<ec>500</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="12813" dir="-" offset="30" extent="5" />
+				
+			</loc>
+			<valid start="2018-04-16T13:00:00Z" end="2019-09-12T04:00:00Z" />
+			<text lang="e">In New Haven, lane closed on CT-69 NB near Wilbur Cross Pkwy.</text>
+			<delay>24</delay>
+		</ev>
+		<ev>
+			<id>24832962</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77113" lat="40.705685" />
+				<addr>186th St</addr>
+			</loc>
+			<valid start="2019-03-13T15:11:08Z" end="2019-04-16T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 186th St between 104th Ave and Bend.</text>
+		</ev>
+		<ev>
+			<id>24766578</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.98368" lat="40.74396" />
+				<addr>E 29th St</addr>
+			</loc>
+			<valid start="2019-03-30T16:01:00Z" end="2019-04-01T01:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on E 29th St WB between Madison Ave and Park Ave.</text>
+		</ev>
+		<ev>
+			<id>24833016</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83423" lat="40.840145" />
+				<addr>Dudley Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:03:09Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Dudley Ave between George St and Mayflower Ave.</text>
+		</ev>
+		<ev>
+			<id>24744701</id>
+			<ec>24</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.110916" lat="40.86369" />
+				<addr>8th St</addr>
+			</loc>
+			<valid start="2018-11-28T21:48:27Z" end="2019-04-01T07:52:48Z" />
+			<text lang="e">In Passaic, bridge closed on 8th St SB between Wall St and Main Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24883010</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.00444" lat="40.70543" />
+				<addr>Fletcher St</addr>
+			</loc>
+			<valid start="2019-03-31T04:00:00Z" end="2019-06-30T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Fletcher St between South St and Front St.</text>
+		</ev>
+		<ev>
+			<id>10446887</id>
+			<ec>407</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="10446" dir="+" offset="22" extent="8" />
+				<main id="10446" dir="+" />
+				
+			</loc>
+			<valid start="2018-03-04T03:00:00Z" end="2021-12-01T05:00:00Z" />
+			<text lang="e">In Kearny, off-ramp closed on NJ-7 EB near CR-659.</text>
+			<delay>72</delay>
+		</ev>
+		<ev>
+			<id>24901666</id>
+			<ec>201</ec>
+			<se>1</se>
+			<loc type="geo">
+				<geo lon="-74.27038" lat="40.73296" />
+				<addr>Lincoln Hwy</addr>
+			</loc>
+			<valid start="2019-03-31T20:31:12Z" end="2019-03-31T21:26:50Z" />
+			<text lang="e">In Maplewood, accident on Lincoln Hwy near Oakview Rd.</text>
+		</ev>
+		<ev>
+			<id>24500694</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.736176" lat="40.76616" />
+				<addr>Thebes Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Thebes Ave between Bend and Marathon Pkwy.</text>
+		</ev>
+		<ev>
+			<id>24500700</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77288" lat="40.750237" />
+				<addr>53rd Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 53rd Ave between 206th St and 207th St.</text>
+			<delay>16</delay>
+		</ev>
+		<ev>
+			<id>24500648</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.94131" lat="40.69929" />
+				<addr>Ellery St</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-20T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Ellery St between Broadway and Marcus Garvey Blvd.</text>
+			<delay>7</delay>
+		</ev>
+		<ev>
+			<id>24012248</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16077" dir="+" offset="31" extent="48" />
+				
+			</loc>
+			<valid start="2019-02-28T21:47:58Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Creston Ave between E 192nd St and E 191st St.</text>
+			<delay>38</delay>
+		</ev>
+		<ev>
+			<id>22189548</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95746" lat="40.722286" />
+				<addr>N 12th St</addr>
+			</loc>
+			<valid start="2019-01-07T15:21:08Z" end="2019-04-04T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on N 12th St between Wythe Ave and Kent Ave.</text>
+			<delay>3</delay>
+		</ev>
+		<ev>
+			<id>24803106</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.91775" lat="40.662834" />
+				<addr>Grafton St</addr>
+			</loc>
+			<valid start="2019-03-28T04:00:00Z" end="2019-06-10T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Grafton St between Dumont Ave and Livonia Ave.</text>
+		</ev>
+		<ev>
+			<id>24891158</id>
+			<ec>214</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.010345" lat="40.704754" />
+				<addr>Mill Ln</addr>
+			</loc>
+			<valid start="2019-03-31T15:00:00Z" end="2019-04-01T02:00:00Z" />
+			<text lang="e">In Manhattan, incident on Mill Ln between Stone St and South William St.</text>
+		</ev>
+		<ev>
+			<id>24692825</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.91139" lat="40.705" />
+				<addr>Bleecker St</addr>
+			</loc>
+			<valid start="2019-03-25T04:00:00Z" end="2019-04-07T03:58:59Z" />
+			<text lang="e">In Queens, road construction on Bleecker St between Seneca Ave and Bleecker St.</text>
+		</ev>
+		<ev>
+			<id>24602594</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.90088" lat="40.817806" />
+				<addr>Macy Pl</addr>
+			</loc>
+			<valid start="2019-03-20T15:41:32Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Macy Pl between Prospect Ave and Hewitt Pl.</text>
+		</ev>
+		<ev>
+			<id>21982870</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.901886" lat="40.65792" />
+				<addr>Sackman St</addr>
+			</loc>
+			<valid start="2019-01-01T05:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Sackman St between Hegeman Ave and New Lots Ave.</text>
+		</ev>
+		<ev>
+			<id>24820803</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95676" lat="40.582836" />
+				<addr>Guider Ave</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-04T03:59:59Z" />
+			<text lang="e">In Brooklyn, paving operations on Guider Ave between Homecrest Ave and E 12th St.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24692823</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.97168" lat="40.787163" />
+				<addr>W 87th St</addr>
+			</loc>
+			<valid start="2019-03-25T04:00:00Z" end="2019-04-30T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 87th St between Amsterdam Ave and Columbus Ave.</text>
+		</ev>
+		<ev>
+			<id>24619024</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.91103" lat="40.69953" />
+				<addr>Wyckoff Ave</addr>
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-23T03:58:59Z" />
+			<text lang="e">In Queens, road construction on Wyckoff Ave between Myrtle Ave and Madison St.</text>
+		</ev>
+		<ev>
+			<id>24800533</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="15812" dir="+" offset="44" extent="15" />
+				
+			</loc>
+			<valid start="2019-03-18T13:21:19Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Bruckner Blvd near La Salle Ave.</text>
+			<delay>27</delay>
+		</ev>
+		<ev>
+			<id>24195200</id>
+			<ec>738</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="26471" dir="-" offset="78" extent="6" />
+				
+			</loc>
+			<valid start="2019-01-29T10:00:00Z" end="2019-06-01T03:00:00Z" />
+			<text lang="e">In Bronx, road construction on I-87 SB between 138th St and Brooke Ave. Left lane closed.</text>
+			<delay>6</delay>
+		</ev>
+		<ev>
+			<id>24161714</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.932045" lat="40.702" />
+				<addr>Noll St</addr>
+			</loc>
+			<valid start="2019-03-05T18:58:23Z" end="2019-04-05T03:58:59Z" />
+			<text lang="e">In Brooklyn, paving operations on Noll St between Evergreen Ave and Central Ave.</text>
+		</ev>
+		<ev>
+			<id>23482283</id>
+			<ec>409</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="26739" dir="-" offset="0" extent="0" />
+				<main id="4794" dir="+" />
+				
+			</loc>
+			<valid start="2018-11-12T05:00:00Z" end="2019-08-01T03:59:00Z" />
+			<text lang="e">Ramp restrictions on I-95 SB near I-87.</text>
+			<delay>14</delay>
+		</ev>
+		<ev>
+			<id>24281173</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.993324" lat="40.77283" />
+				<addr>W 59th St</addr>
+			</loc>
+			<valid start="2019-03-10T05:00:00Z" end="2019-04-10T03:58:59Z" />
+			<text lang="e">In Manhattan, paving operations on W 59th St between 11th Ave and 12th Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24894512</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="22983" dir="+" offset="4" extent="11" />
+				
+			</loc>
+			<valid start="2018-11-28T17:53:03Z" end="2019-04-01T04:17:45Z" />
+			<text lang="e">In Rutherford, closed due to road construction on Ridge Rd SB between Barrows Ave and Rutherford Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24833039</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83117" lat="40.848164" />
+				<addr>Hobart Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:56:46Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Hobart Ave between Nycta Subway and Bend.</text>
+		</ev>
+		<ev>
+			<id>24832991</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.85444" lat="40.832954" />
+				<addr>Newbold Ave</addr>
+			</loc>
+			<valid start="2019-01-09T20:33:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Newbold Ave between Olmstead Ave and Cross Bronx Expy.</text>
+			<delay>5</delay>
+		</ev>
+		<ev>
+			<id>24281172</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.96285" lat="40.71727" />
+				<addr>N 3rd St</addr>
+			</loc>
+			<valid start="2019-03-10T05:00:00Z" end="2019-06-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on N 3rd St between Wythe Ave and Kent Ave.</text>
+		</ev>
+		<ev>
+			<id>24833006</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.85485" lat="40.89433" />
+				<addr>E 235th St</addr>
+			</loc>
+			<valid start="2019-03-18T12:52:12Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E 235th St between Barnes Ave and Byron Ave.</text>
+		</ev>
+		<ev>
+			<id>24832923</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.99168" lat="40.66303" />
+				<addr>18th St</addr>
+			</loc>
+			<valid start="2019-03-16T04:00:00Z" end="2019-06-15T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on 18th St between 5th Ave and 4th Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24075164</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.90408" lat="40.85999" />
+				<addr>Davidson Ave</addr>
+			</loc>
+			<valid start="2019-03-03T05:00:00Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Davidson Ave between North St and W 184th St.</text>
+		</ev>
+		<ev>
+			<id>22043479</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.79367" lat="40.693462" />
+				<addr>109th Ave</addr>
+			</loc>
+			<valid start="2019-01-02T19:14:59Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on 109th Ave between Long Island Railroad and 157th St.</text>
+		</ev>
+		<ev>
+			<id>24195452</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.84888" lat="40.723965" />
+				<addr>69th Ave</addr>
+			</loc>
+			<valid start="2019-03-06T19:17:59Z" end="2019-05-02T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on 69th Ave between Queens Blvd and Yellowstone Blvd.</text>
+			<delay>26</delay>
+		</ev>
+		<ev>
+			<id>24500623</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73171" lat="40.766083" />
+				<addr>Van Zandt Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Van Zandt Ave near Thebes Ave.</text>
+		</ev>
+		<ev>
+			<id>24195092</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="7092" dir="-" offset="52" extent="28" />
+				
+			</loc>
+			<valid start="2018-11-29T05:12:35Z" end="2019-04-01T04:00:00Z" />
+			<text lang="e">In Staten Island, road construction on Outerbridge Crossing EB near New York.</text>
+			<delay>18</delay>
+		</ev>
+		<ev>
+			<id>24832963</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73016" lat="40.72396" />
+				<addr>Gettysburg St</addr>
+			</loc>
+			<valid start="2019-02-21T12:38:09Z" end="2019-05-16T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on Gettysburg St between 93rd Ave and 93rd Rd.</text>
+		</ev>
+		<ev>
+			<id>24800502</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.85485" lat="40.89433" />
+				<addr>Byron Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:52:10Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Byron Ave near E 235th St.</text>
+		</ev>
+		<ev>
+			<id>24857358</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98021" lat="40.74573" />
+				<addr>E 33rd St</addr>
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on E 33rd St between Park Ave and Lexington Ave.</text>
+			<delay>2</delay>
+		</ev>
+		<ev>
+			<id>24832925</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.90453" lat="40.656685" />
+				<addr>Hegeman Ave</addr>
+			</loc>
+			<valid start="2019-03-13T15:22:29Z" end="2019-04-12T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Hegeman Ave between New Lots Ave and Mother Gaston Blvd.</text>
+		</ev>
+		<ev>
+			<id>24771020</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.95972" lat="40.758667" />
+				<addr>E 59th St</addr>
+			</loc>
+			<valid start="2019-03-27T12:00:00Z" end="2019-04-08T00:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on E 59th St EB between York Ave and Fdr Dr.</text>
+		</ev>
+		<ev>
+			<id>24666330</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="6903" dir="+" offset="20" extent="75" />
+				
+			</loc>
+			<valid start="2019-03-23T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 30th St between 11th Ave and High Line.</text>
+			<delay>15</delay>
+		</ev>
+		<ev>
+			<id>22011592</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.981735" lat="40.57555" />
+				<addr>Schweikerts Walk</addr>
+			</loc>
+			<valid start="2019-01-02T05:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Brooklyn, road maintenance operations on Schweikerts Walk near Surf Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24882430</id>
+			<ec>514</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="6769" dir="-" offset="99" extent="1" />
+				
+			</loc>
+			<valid start="2019-01-04T19:22:45Z" end="2019-03-31T21:53:32Z" />
+			<text lang="e">In Queens, roadway reduced to one lane on NY-25A EB near 114th St.</text>
+			<delay>84</delay>
+		</ev>
+		<ev>
+			<id>24012245</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.892166" lat="40.84105" />
+				<addr>Prospect Ave</addr>
+			</loc>
+			<valid start="2019-03-01T05:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Prospect Ave between Crotona Park and E 175th St.</text>
+		</ev>
+		<ev>
+			<id>24800489</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="18243" dir="-" offset="86" extent="14" />
+				
+			</loc>
+			<valid start="2019-03-18T13:00:48Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Ericson Pl near Maitland Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24890117</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="10521" dir="-" offset="0" extent="100" />
+				
+			</loc>
+			<valid start="2019-01-23T17:56:25Z" end="2019-04-01T02:22:40Z" />
+			<text lang="e">In Toms River, road construction on NJ-166 NB between NJ-37 and Old Freehold Rd.</text>
+			<delay>5</delay>
+		</ev>
+		<ev>
+			<id>24702066</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.14322" lat="40.575237" />
+				<addr>Manor Ct</addr>
+			</loc>
+			<valid start="2019-03-19T12:14:52Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on Manor Ct between Rigby Ave and Dead End.</text>
+		</ev>
+		<ev>
+			<id>11205256</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.99938" lat="40.752197" />
+				<addr>W 31st St</addr>
+			</loc>
+			<valid start="2018-03-30T17:13:00Z" end="2019-07-31T04:00:00Z" />
+			<text lang="e">In Manhattan, road construction on W 31st St WB between Dyer Ave and 9th Ave.</text>
+		</ev>
+		<ev>
+			<id>23269054</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.731445" lat="40.727345" />
+				<addr>Gettysburg St</addr>
+			</loc>
+			<valid start="2019-02-07T17:07:53Z" end="2019-05-08T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on Gettysburg St between 92nd Ave and 92nd Rd.</text>
+		</ev>
+		<ev>
+			<id>24877433</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="16713" dir="+" offset="0" extent="7" />
+				
+			</loc>
+			<valid start="2019-03-18T08:09:18Z" end="2019-04-01T08:55:54Z" />
+			<text lang="e">In Manhattan, closed due to road construction on Park Pl WB between Church St and Broadway.</text>
+			<delay>12</delay>
+		</ev>
+		<ev>
+			<id>23481927</id>
+			<ec>739</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="19571" dir="-" offset="14" extent="127" />
+				
+			</loc>
+			<valid start="2018-10-29T04:00:06Z" end="2019-11-09T05:00:00Z" />
+			<text lang="e">In Greenburgh, road construction on NY-9A NB between Fieldcrest Dr and Browns Ln. Shoulder closed.</text>
+			<delay>15</delay>
+		</ev>
+		<ev>
+			<id>24894664</id>
+			<ec>744</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="4824" dir="-" offset="3" extent="161" />
+				
+			</loc>
+			<valid start="2019-03-28T09:26:16Z" end="2019-04-01T10:28:16Z" />
+			<text lang="e">In Rye city, road construction on I-95 NB between Midland Ave and Ny--Ct State Border. Roadway reduced to two lanes.</text>
+			<delay>13</delay>
+		</ev>
+		<ev>
+			<id>24877434</id>
+			<ec>745</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="4772" dir="-" offset="47" extent="185" />
+				
+			</loc>
+			<valid start="2019-03-27T14:23:55Z" end="2019-04-01T14:58:05Z" />
+			<text lang="e">In Union City, road construction on NJ-495 WB between Kennedy Blvd and NJ-3. Roadway reduced to three lanes.</text>
+			<delay>2</delay>
+		</ev>
+		<ev>
+			<id>24800497</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="18379" dir="+" offset="7" extent="6" />
+				
+			</loc>
+			<valid start="2019-03-18T13:38:40Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E Gun Hill Rd near Westervelt Ave.</text>
+			<delay>61</delay>
+		</ev>
+		<ev>
+			<id>24891179</id>
+			<ec>409</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="5982" dir="-" offset="0" extent="0" />
+				
+			</loc>
+			<valid start="2019-03-31T14:00:00Z" end="2019-03-31T22:00:00Z" />
+			<text lang="e">Ramp restrictions on I-84 EB near Boulevard.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24195451</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.01167" lat="40.709686" />
+				<addr>Liberty St</addr>
+			</loc>
+			<valid start="2019-03-06T17:51:12Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Liberty St between Church St and Greenwich St.</text>
+			<delay>4</delay>
+		</ev>
+		<ev>
+			<id>24901798</id>
+			<ec>337</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="20774" dir="+" offset="0" extent="1" />
+				
+			</loc>
+			<valid start="2019-03-31T19:17:28Z" end="2019-03-31T21:33:41Z" />
+			<text lang="e">In Sayreville, overturned vehicle on Jernee Mill Rd SB near Bordentown Ave.</text>
+		</ev>
+		<ev>
+			<id>24833031</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.829315" lat="40.844193" />
+				<addr>Hobart Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:56:38Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Hobart Ave between Middletown Rd and Roberts Ave.</text>
+		</ev>
+		<ev>
+			<id>24500678</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73171" lat="40.766083" />
+				<addr>Thebes Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Thebes Ave between Van Zandt Ave and Dead End.</text>
+		</ev>
+		<ev>
+			<id>24857373</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-74.00587" lat="40.74026" />
+				<addr>W 13th St</addr>
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-06-29T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on W 13th St between 9th Ave and Washington St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24899874</id>
+			<ec>214</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="4592" dir="-" offset="31" extent="3" />
+				
+			</loc>
+			<valid start="2019-03-31T18:40:00Z" end="2019-03-31T21:35:04Z" />
+			<text lang="e">In Newark, incident on New Jersey Tpke EB between I-78 and Toll Plaza.</text>
+		</ev>
+		<ev>
+			<id>24500626</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.72945" lat="40.768097" />
+				<addr>Brattle Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Brattle Ave near Little Neck Pkwy.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24833036</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.827034" lat="40.841316" />
+				<addr>Coddington Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:15:42Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Coddington Ave between Bruckner Blvd and Hollywood Ave.</text>
+		</ev>
+		<ev>
+			<id>24832524</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.01125" lat="40.70831" />
+				<addr>Pine St</addr>
+			</loc>
+			<valid start="2019-03-28T14:00:00Z" end="2019-04-15T02:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on Pine St WB between Broadway and Nassau St.</text>
+		</ev>
+		<ev>
+			<id>24832988</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16077" dir="+" offset="0" extent="55" />
+				
+			</loc>
+			<valid start="2019-02-28T21:47:56Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Creston Ave between E 191st St and E 190th St.</text>
+			<delay>38</delay>
+		</ev>
+		<ev>
+			<id>24800498</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="17858" dir="-" offset="99" extent="1" />
+				
+			</loc>
+			<valid start="2019-03-18T13:38:46Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Bartow Ave near E Gun Hill Rd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24250999</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.80266" lat="40.756252" />
+				<addr>45th Ave</addr>
+			</loc>
+			<valid start="2019-03-09T05:00:00Z" end="2019-06-05T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on 45th Ave between 164th St and 165th St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24735442</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.0011" lat="40.736565" />
+				<addr>W 11th St</addr>
+			</loc>
+			<valid start="2019-03-25T16:27:05Z" end="2019-05-26T03:58:59Z" />
+			<text lang="e">In Manhattan, paving operations on W 11th St between 7th Ave and Waverly Pl.</text>
+			<delay>4</delay>
+		</ev>
+		<ev>
+			<id>24650838</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98418" lat="40.759842" />
+				<addr>W 48th St</addr>
+			</loc>
+			<valid start="2019-03-23T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 48th St between 7th Ave and 6th Ave.</text>
+		</ev>
+		<ev>
+			<id>22043478</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.907715" lat="40.75391" />
+				<addr>53rd Pl</addr>
+			</loc>
+			<valid start="2019-01-02T20:21:55Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on 53rd Pl between 32nd Ave and Broadway.</text>
+		</ev>
+		<ev>
+			<id>24901634</id>
+			<ec>743</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="7100" dir="+" offset="0" extent="149" />
+				
+			</loc>
+			<valid start="2019-03-27T19:07:56Z" end="2019-04-01T20:09:56Z" />
+			<text lang="e">In Greenburgh, road construction on Saw Mill River Pky SB between NY-119 and I-87. Roadway reduced to one lane.</text>
+			<delay>4</delay>
+		</ev>
+		<ev>
+			<id>23043374</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.996574" lat="40.729553" />
+				<addr>Washington Sq</addr>
+			</loc>
+			<valid start="2019-02-02T05:00:00Z" end="2019-05-04T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on Washington Sq between Washington Pl and Washington Sq.</text>
+		</ev>
+		<ev>
+			<id>24857359</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="6907" dir="-" offset="9" extent="81" />
+				
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 29th St between High Line and 11th Ave.</text>
+			<delay>73</delay>
+		</ev>
+		<ev>
+			<id>22043472</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.79434" lat="40.693176" />
+				<addr>109th Ave</addr>
+			</loc>
+			<valid start="2019-01-02T19:14:55Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on 109th Ave near 157th St.</text>
+		</ev>
+		<ev>
+			<id>23269055</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.72836" lat="40.723614" />
+				<addr>239th St</addr>
+			</loc>
+			<valid start="2019-02-07T17:07:49Z" end="2019-05-08T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on 239th St between 93rd Rd and 93rd Ave.</text>
+		</ev>
+		<ev>
+			<id>24857363</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98426" lat="40.74017" />
+				<addr>E 24th St</addr>
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on E 24th St between Park Ave and Lexington Ave.</text>
+		</ev>
+		<ev>
+			<id>24441135</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.009254" lat="40.713257" />
+				<addr>Park Pl</addr>
+			</loc>
+			<valid start="2019-03-15T04:00:00Z" end="2019-04-16T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Park Pl between Church St and Broadway.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>23482317</id>
+			<ec>802</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="4587" dir="+" offset="8" extent="14" />
+				
+			</loc>
+			<valid start="2018-09-08T12:43:00Z" end="2019-04-01T04:10:45Z" />
+			<text lang="e">In Woodbridge, long-term road construction on New Jersey Tpke SB near 'Thomas Edison Service Area'.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>22093078</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.49886" lat="40.564426" />
+				<addr>Baekeland Ave</addr>
+			</loc>
+			<valid start="2019-01-08T11:00:00Z" end="2020-01-08T21:00:00Z" />
+			<text lang="e">In Middlesex, closed due to road construction on Baekeland Ave WB between Cedar Ave and Clawson St.</text>
+		</ev>
+		<ev>
+			<id>24338518</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.89637" lat="40.779667" />
+				<addr>41st St</addr>
+			</loc>
+			<valid start="2019-03-11T16:01:43Z" end="2019-06-10T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on 41st St between 19th Ave and Berrian Blvd.</text>
+		</ev>
+		<ev>
+			<id>24718122</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="15520" dir="+" offset="54" extent="46" />
+				
+			</loc>
+			<valid start="2019-03-26T04:00:00Z" end="2019-05-20T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on 243rd St between Braddock Ave and 93rd Ave.</text>
+			<delay>5</delay>
+		</ev>
+		<ev>
+			<id>24049280</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.99556" lat="40.730717" />
+				<addr>Washington Sq</addr>
+			</loc>
+			<valid start="2019-03-01T20:21:19Z" end="2019-05-31T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Washington Sq between 5th Ave and University Pl.</text>
+		</ev>
+		<ev>
+			<id>24894914</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="6667" dir="+" offset="0" extent="100" />
+				
+			</loc>
+			<valid start="2019-03-31T11:13:46Z" end="2019-04-01T11:18:46Z" />
+			<text lang="e">In Hempstead, closed due to road construction on Loop Pky WB between Meadowbrook State Pky and Lido Blvd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24338522</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.88892" lat="40.81649" />
+				<addr>Manida St</addr>
+			</loc>
+			<valid start="2019-03-12T04:00:00Z" end="2019-04-14T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Manida St between Bend and Spofford Ave.</text>
+		</ev>
+		<ev>
+			<id>24500698</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="15965" dir="+" offset="46" extent="54" />
+				
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Clearview Expy between 29th Ave and 32nd Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24500691</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73101" lat="40.76684" />
+				<addr>Leith Rd</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Leith Rd between Browvale Ln and Bend.</text>
+		</ev>
+		<ev>
+			<id>23995911</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.005295" lat="40.740025" />
+				<addr>W 13th St</addr>
+			</loc>
+			<valid start="2019-03-01T05:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 13th St between 9th Ave and Hudson St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24882542</id>
+			<ec>745</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="4770" dir="+" offset="12" extent="288" />
+				
+			</loc>
+			<valid start="2019-03-25T16:06:07Z" end="2019-04-01T16:48:57Z" />
+			<text lang="e">In North Bergen, road construction on NJ-495 EB between I-95 and Kennedy Blvd. Roadway reduced to three lanes.</text>
+			<delay>13</delay>
+		</ev>
+		<ev>
+			<id>24012249</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83682" lat="40.857277" />
+				<addr>Pelham Pkwy</addr>
+			</loc>
+			<valid start="2019-02-28T18:18:45Z" end="2019-05-25T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Pelham Pkwy between Stillwell Ave and Lodovick Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24800512</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83287" lat="40.84143" />
+				<addr>Edison Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:58:36Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Edison Ave near Wellman Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24403432</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19481" dir="-" offset="2" extent="3" />
+				
+			</loc>
+			<valid start="2019-03-13T15:47:54Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 94th St between Grand Central Pkwy Et 7 and Grand Central Pkwy.</text>
+			<delay>82</delay>
+		</ev>
+		<ev>
+			<id>24500683</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73875" lat="40.767372" />
+				<addr>Zion St</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Zion St between Bend and Northern Blvd.</text>
+		</ev>
+		<ev>
+			<id>24836039</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.01073" lat="40.707123" />
+				<addr>Broad St</addr>
+			</loc>
+			<valid start="2019-03-30T16:01:00Z" end="2019-04-01T03:59:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on Broad St SB between Wall St and Exchange Pl.</text>
+		</ev>
+		<ev>
+			<id>24539573</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83467" lat="40.841393" />
+				<addr>Mayflower Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:58:34Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Mayflower Ave near Wellman Ave.</text>
+		</ev>
+		<ev>
+			<id>24832990</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.88863" lat="40.872765" />
+				<addr>Villa Ave</addr>
+			</loc>
+			<valid start="2019-02-11T20:28:18Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Villa Ave between Bedford Park Blvd and E 204th St.</text>
+		</ev>
+		<ev>
+			<id>24820807</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.024574" lat="40.639923" />
+				<addr>65th St</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-04T03:59:59Z" />
+			<text lang="e">In Brooklyn, paving operations on 65th St between 3rd Ave and Shore Pkwy.</text>
+		</ev>
+		<ev>
+			<id>24832969</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.773026" lat="40.704857" />
+				<addr>Arcade Ave</addr>
+			</loc>
+			<valid start="2019-03-13T15:13:05Z" end="2019-04-16T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Arcade Ave between Liberty Ave and Dunkirk St.</text>
+		</ev>
+		<ev>
+			<id>24539585</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="18243" dir="-" offset="44" extent="21" />
+				
+			</loc>
+			<valid start="2019-03-18T12:58:31Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Ericson Pl near Wellman Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24619023</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.91103" lat="40.69953" />
+				<addr>Palmetto St</addr>
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-23T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Palmetto St between Myrtle Ave and St Nicholas Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24267940</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.915634" lat="40.809696" />
+				<addr>E 142nd St</addr>
+			</loc>
+			<valid start="2019-03-08T16:13:19Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on E 142nd St between St Anns Ave and Brook Ave.</text>
+		</ev>
+		<ev>
+			<id>23482113</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.92567" lat="40.73175" />
+				<addr>54th Rd</addr>
+			</loc>
+			<valid start="2019-01-28T12:00:00Z" end="2019-06-01T03:59:00Z" />
+			<text lang="e">In Queens, closed due to road construction on 54th Rd EB between 43rd St and Laurel Hill Blvd.</text>
+		</ev>
+		<ev>
+			<id>24833035</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.82596" lat="40.839977" />
+				<addr>La Salle Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:21:17Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on La Salle Ave between Hollywood Ave and Bruckner Blvd.</text>
+		</ev>
+		<ev>
+			<id>24049274</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.012146" lat="40.708992" />
+				<addr>Thames St</addr>
+			</loc>
+			<valid start="2019-03-02T05:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Thames St between Greenwich St and Trinity Pl.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>23481926</id>
+			<ec>739</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="19569" dir="+" offset="84" extent="110" />
+				
+			</loc>
+			<valid start="2018-10-29T04:00:06Z" end="2019-11-09T05:00:00Z" />
+			<text lang="e">In Mount Pleasant, road construction on NY-9A SB between Browns Ln and Fieldcrest Dr. Shoulder closed.</text>
+			<delay>9</delay>
+		</ev>
+		<ev>
+			<id>24718123</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.73104" lat="40.721657" />
+				<addr>224th St</addr>
+			</loc>
+			<valid start="2019-03-26T04:00:00Z" end="2019-05-20T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on 224th St between 93rd Rd and Jamaica Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24820787</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95703" lat="40.583035" />
+				<addr>E 12th St</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-04T03:59:59Z" />
+			<text lang="e">In Brooklyn, paving operations on E 12th St near Guider Ave.</text>
+		</ev>
+		<ev>
+			<id>24500705</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.80526" lat="40.70116" />
+				<addr>149th St</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-20T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 149th St between Jamaica Ave and Archer Ave.</text>
+		</ev>
+		<ev>
+			<id>24800495</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.841225" lat="40.86786" />
+				<addr>Arnow Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:38:34Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Arnow Ave near E Gun Hill Rd.</text>
+		</ev>
+		<ev>
+			<id>24650830</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98682" lat="40.748512" />
+				<addr>W 33rd St</addr>
+			</loc>
+			<valid start="2019-03-23T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 33rd St between 5th Ave and Broadway.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>11671846</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.9805" lat="41.207497" />
+				<addr>Samsondale Ave</addr>
+			</loc>
+			<valid start="2018-04-11T14:07:00Z" end="2019-06-01T04:00:00Z" />
+			<text lang="e">In Haverstraw, closed due to road construction on Samsondale Ave EB between Strack Court and Cliff St.</text>
+		</ev>
+		<ev>
+			<id>24832998</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="18379" dir="+" offset="22" extent="4" />
+				
+			</loc>
+			<valid start="2019-03-18T13:38:31Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E Gun Hill Rd between Eastchester Rd and Eastchester Rd.</text>
+			<delay>63</delay>
+		</ev>
+		<ev>
+			<id>23317401</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-74.00303" lat="40.715584" />
+				<addr>Worth St</addr>
+			</loc>
+			<valid start="2019-02-10T05:00:00Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on Worth St between Lafayette St and Broadway.</text>
+			<delay>8</delay>
+		</ev>
+		<ev>
+			<id>24832943</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="15472" dir="-" offset="22" extent="23" />
+				
+			</loc>
+			<valid start="2019-01-12T05:00:00Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 155th St between 8th Ave and Harlem River Dr.</text>
+			<delay>25</delay>
+		</ev>
+		<ev>
+			<id>24883009</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16460" dir="+" offset="0" extent="100" />
+				
+			</loc>
+			<valid start="2019-03-31T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on King St between Varick St and Hudson St.</text>
+			<delay>19</delay>
+		</ev>
+		<ev>
+			<id>24718115</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.99393" lat="40.6644" />
+				<addr>18th St</addr>
+			</loc>
+			<valid start="2019-03-26T04:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on 18th St between 4th Ave and 3rd Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24701132</id>
+			<ec>802</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="5129" dir="-" offset="69" extent="21" />
+				
+			</loc>
+			<valid start="2019-03-25T05:11:00Z" end="2019-04-01T04:19:41Z" />
+			<text lang="e">In Manhattan, long-term road construction on Henry Hudson Brg NB near Manhattan.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24539552</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.99987" lat="40.75576" />
+				<addr>Hudson Blvd</addr>
+			</loc>
+			<valid start="2019-03-18T14:34:42Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Union City, road construction on Hudson Blvd near W 35th St.</text>
+		</ev>
+		<ev>
+			<id>24388157</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.85452" lat="40.806084" />
+				<addr>Bronx River Ave</addr>
+			</loc>
+			<valid start="2019-03-14T04:00:00Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Bronx River Ave between Bolton Ave and White Plains Rd.</text>
+		</ev>
+		<ev>
+			<id>24832984</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="17739" dir="+" offset="26" extent="31" />
+				
+			</loc>
+			<valid start="2019-03-18T13:32:45Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E 170th St between Townsend Ave and Walton Ave.</text>
+			<delay>8</delay>
+		</ev>
+		<ev>
+			<id>24832987</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.89492" lat="40.820007" />
+				<addr>Beck St</addr>
+			</loc>
+			<valid start="2019-03-21T18:54:08Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Beck St between Tiffany St and Intervale Ave.</text>
+		</ev>
+		<ev>
+			<id>24284542</id>
+			<ec>409</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="4771" dir="-" offset="0" extent="0" />
+				
+			</loc>
+			<valid start="2018-12-28T07:25:00Z" end="2019-04-01T20:48:41Z" />
+			<text lang="e">Ramp restrictions on NJ-495 WB near Paterson Plank Rd.</text>
+			<delay>11</delay>
+		</ev>
+		<ev>
+			<id>24500608</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77831" lat="40.748745" />
+				<addr>53rd Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 53rd Ave near Francis Lewis Blvd.</text>
+			<delay>5</delay>
+		</ev>
+		<ev>
+			<id>24895459</id>
+			<ec>707</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="7553" dir="-" offset="17" extent="69" />
+				
+			</loc>
+			<valid start="2019-03-29T11:56:08Z" end="2019-04-01T12:07:29Z" />
+			<text lang="e">In Ship Bottom, bridge maintenance operations on NJ-72 WB between Shore Ave and East Bay Ave.</text>
+			<delay>2</delay>
+		</ev>
+		<ev>
+			<id>24129625</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.8311" lat="40.658703" />
+				<addr>102nd St</addr>
+			</loc>
+			<valid start="2019-03-04T17:57:56Z" end="2019-05-30T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on 102nd St near 160th Ave.</text>
+		</ev>
+		<ev>
+			<id>24539629</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="15479" dir="+" offset="5" extent="38" />
+				
+			</loc>
+			<valid start="2019-03-18T13:28:30Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E 161st St near Walton Ave.</text>
+			<delay>6</delay>
+		</ev>
+		<ev>
+			<id>16934705</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.48709" lat="41.336792" />
+				<addr>CR-12</addr>
+			</loc>
+			<valid start="2018-08-22T14:54:00Z" end="2019-08-21T03:59:00Z" />
+			<text lang="e">In Wawayanda, closed due to road construction on CR-12 WB between Cisco Rd and A Dirt Rd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24338517</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-74.011116" lat="40.71559" />
+				<addr>Greenwich St</addr>
+			</loc>
+			<valid start="2019-03-11T21:36:25Z" end="2019-05-24T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on Greenwich St between Warren St and Murray St.</text>
+			<delay>19</delay>
+		</ev>
+		<ev>
+			<id>24634048</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.93739" lat="40.698185" />
+				<addr>Belvedere St</addr>
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Belvedere St near Broadway.</text>
+		</ev>
+		<ev>
+			<id>24901337</id>
+			<ec>401</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.00258" lat="40.751133" />
+				<addr>28th St</addr>
+			</loc>
+			<valid start="2019-03-31T20:10:35Z" end="2019-03-31T21:29:04Z" />
+			<text lang="e">In Manhattan, closed on 28th St EB between 11th Ave and 10th Ave.</text>
+		</ev>
+		<ev>
+			<id>23999376</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.780594" lat="43.087116" />
+				<addr>Excelsior Ave</addr>
+			</loc>
+			<valid start="2018-12-03T12:00:00Z" end="2019-04-26T21:00:00Z" />
+			<text lang="e">In Saratoga Springs, closed due to road construction on Excelsior Ave EB between Rock St and High Rock Ave.</text>
+		</ev>
+		<ev>
+			<id>24833041</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.91738" lat="40.837746" />
+				<addr>Clarke Pl</addr>
+			</loc>
+			<valid start="2019-03-21T19:05:42Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Bronx,
+			road construction on Clarke Pl between
+			Grand Concourse
+			and Walton Ave.</text>
+		</ev>
+		<ev>
+			<id>24338515</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.00423" lat="40.73113" />
+				<addr>Morton St</addr>
+			</loc>
+			<valid start="2019-03-12T04:00:00Z" end="2019-05-31T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Morton St between Bleecker St and 7th Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24084807</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.11065" lat="40.598648" />
+				<addr>Buttonwood Rd</addr>
+			</loc>
+			<valid start="2019-03-04T05:00:00Z" end="2019-05-02T03:58:59Z" />
+			<text lang="e">In Staten Island, road maintenance operations on Buttonwood Rd between Benedict Rd and Willow Pond Rd.</text>
+		</ev>
+		<ev>
+			<id>24129636</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.90447" lat="40.851063" />
+				<addr>E 179th St</addr>
+			</loc>
+			<valid start="2019-03-04T14:32:23Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on E 179th St between Grand Concourse and Anthony Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24833029</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.828445" lat="40.839844" />
+				<addr>La Salle Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:21:11Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on La Salle Ave between Hobart Ave and Merry Ave.</text>
+		</ev>
+		<ev>
+			<id>24870346</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.92549" lat="40.669434" />
+				<addr>Lincoln Pl</addr>
+			</loc>
+			<valid start="2019-03-08T05:00:00Z" end="2019-04-10T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Lincoln Pl between Buffalo Ave and Ralph Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24820811</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98055" lat="40.68126" />
+				<addr>Warren St</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Warren St between 4th Ave and 3rd Ave.</text>
+		</ev>
+		<ev>
+			<id>24500604</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.7747" lat="40.74973" />
+				<addr>53rd Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 53rd Ave near 204th St.</text>
+			<delay>14</delay>
+		</ev>
+		<ev>
+			<id>24894511</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="22984" dir="-" offset="0" extent="100" />
+				
+			</loc>
+			<valid start="2018-11-28T17:48:48Z" end="2019-04-01T04:17:45Z" />
+			<text lang="e">In Rutherford, closed due to road construction on Ridge Rd NB between Rutherford Ave and Barrows Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24800505</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19222" dir="+" offset="44" extent="8" />
+				
+			</loc>
+			<valid start="2019-03-18T13:18:34Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E Tremont Ave near La Salle Ave.</text>
+			<delay>3</delay>
+		</ev>
+		<ev>
+			<id>24766432</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.992645" lat="40.73731" />
+				<addr>E 15th St</addr>
+			</loc>
+			<valid start="2019-03-31T13:00:00Z" end="2019-03-31T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on E 15th St EB between 5th Ave and Union Sq.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24482667</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.953186" lat="40.6709" />
+				<addr>Lincoln Pl</addr>
+			</loc>
+			<valid start="2019-03-17T04:00:00Z" end="2019-06-16T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Lincoln Pl between Rogers Ave and Bedford Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>16934704</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.49344" lat="41.331802" />
+				<addr>CR-12</addr>
+			</loc>
+			<valid start="2018-08-22T14:54:00Z" end="2019-08-21T03:59:00Z" />
+			<text lang="e">In Minisink, closed due to road construction on CR-12 EB between Cisco Rd and A Dirt Rd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>23995912</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.00794" lat="40.740295" />
+				<addr>Little W 12th St</addr>
+			</loc>
+			<valid start="2019-03-01T05:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Little W 12th St between Washington St and 9th Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24901633</id>
+			<ec>743</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="7101" dir="-" offset="15" extent="105" />
+				
+			</loc>
+			<valid start="2019-03-27T19:08:34Z" end="2019-04-01T20:09:56Z" />
+			<text lang="e">In Greenburgh, road construction on Saw Mill River Pky NB between I-87 and NY-119. Roadway reduced to one lane.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24832992</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83567" lat="40.838673" />
+				<addr>Harrington Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:05:07Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Harrington Ave between E Tremont Ave and Mayflower Ave.</text>
+		</ev>
+		<ev>
+			<id>23482336</id>
+			<ec>409</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="5696" dir="+" offset="0" extent="0" />
+				
+			</loc>
+			<valid start="2018-04-16T13:00:00Z" end="2019-09-13T03:59:59Z" />
+			<text lang="e">Ramp restrictions on Wilbur Cross Pkwy near CT-69.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24584475</id>
+			<ec>505</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="4599" dir="-" offset="16" extent="10" />
+				
+			</loc>
+			<valid start="2019-03-30T10:00:00Z" end="2019-04-01T02:00:00Z" />
+			<text lang="e">In Ridgefield, right two lanes closed on New Jersey Tpke NB near Vince Lombardi Service Area.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24539666</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83327" lat="40.83893" />
+				<addr>Coddington Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:13:38Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Coddington Ave between Edison Ave and Mayflower Ave.</text>
+		</ev>
+		<ev>
+			<id>24820802</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95646" lat="40.58266" />
+				<addr>Guider Ave</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-04T03:59:59Z" />
+			<text lang="e">In Brooklyn, paving operations on Guider Ave between Neptune Ave and Homecrest Ave.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24602466</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.9717" lat="40.7505" />
+				<addr>E 43rd St</addr>
+			</loc>
+			<valid start="2019-03-24T13:00:00Z" end="2019-04-14T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on E 43rd St WB between 2nd Ave and 3rd Ave.</text>
+		</ev>
+		<ev>
+			<id>24856727</id>
+			<ec>802</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="15699" dir="-" offset="0" extent="228" />
+				
+			</loc>
+			<valid start="2019-03-26T12:00:15Z" end="2019-04-01T12:29:17Z" />
+			<text lang="e">In Staten Island, long-term road construction on Korean War Veterans Pky EB between Drumgoole Rd and Drumgoole Rd.</text>
+			<delay>29</delay>
+		</ev>
+		<ev>
+			<id>24833024</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.830925" lat="40.841713" />
+				<addr>Dudley Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:03:25Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Dudley Ave between Crosby Ave and Gillespie Ave.</text>
+		</ev>
+		<ev>
+			<id>23683482</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.86175" lat="40.850895" />
+				<addr>Neill Ave</addr>
+			</loc>
+			<valid start="2019-02-19T14:24:01Z" end="2019-05-18T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Neill Ave between Bogart Ave and Fowler Ave.</text>
+		</ev>
+		<ev>
+			<id>23043373</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.99606" lat="40.730156" />
+				<addr>Washington Sq</addr>
+			</loc>
+			<valid start="2019-02-02T05:00:00Z" end="2019-05-04T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on Washington Sq between University Pl and Washington Pl.</text>
+			<delay>3</delay>
+		</ev>
+		<ev>
+			<id>23481983</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.924515" lat="40.732243" />
+				<addr>54th Ave</addr>
+			</loc>
+			<valid start="2018-11-12T05:00:00Z" end="2020-01-01T04:59:00Z" />
+			<text lang="e">In Queens, closed due to road construction on 54th Ave WB between 43rd St and Laurel Hill Blvd.</text>
+		</ev>
+		<ev>
+			<id>24521140</id>
+			<ec>802</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="4595" dir="+" offset="69" extent="3" />
+				
+			</loc>
+			<valid start="2019-01-05T05:41:00Z" end="2019-04-01T14:28:48Z" />
+			<text lang="e">In Secaucus, long-term road construction on New Jersey Tpke SB near Alexander Hamilton Service Area.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24799861</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.96323" lat="40.777683" />
+				<addr>E 80th St</addr>
+			</loc>
+			<valid start="2019-03-31T13:00:00Z" end="2019-03-31T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on E 80th St EB between 5th Ave and Madison Ave.</text>
+			<delay>10</delay>
+		</ev>
+		<ev>
+			<id>24369201</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.90254" lat="40.860577" />
+				<addr>W 184th St</addr>
+			</loc>
+			<valid start="2019-03-12T18:32:21Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on W 184th St between Davidson Ave and E 184th St.</text>
+		</ev>
+		<ev>
+			<id>24832614</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.00843" lat="40.70955" />
+				<addr>John St</addr>
+			</loc>
+			<valid start="2019-03-31T13:00:00Z" end="2019-03-31T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on John St EB between Nassau St and Broadway.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24757834</id>
+			<ec>806</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="6833" dir="+" offset="92" extent="2" />
+				
+			</loc>
+			<valid start="2019-03-04T05:00:00Z" end="2019-04-01T03:59:00Z" />
+			<text lang="e">In Jersey City, water main work on Holland Tunl EB near New Jersey.</text>
+			<delay>40</delay>
+		</ev>
+		<ev>
+			<id>23482114</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.92567" lat="40.73175" />
+				<addr>54th Rd</addr>
+			</loc>
+			<valid start="2019-01-28T12:00:00Z" end="2019-06-01T03:59:00Z" />
+			<text lang="e">In Queens, closed due to road construction on 54th Rd WB between 43rd St and Laurel Hill Blvd.</text>
+		</ev>
+		<ev>
+			<id>24832968</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77394" lat="40.703312" />
+				<addr>Babylon Ave</addr>
+			</loc>
+			<valid start="2019-03-13T15:17:28Z" end="2019-04-16T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Babylon Ave between Dunkirk St and Liberty Ave.</text>
+		</ev>
+		<ev>
+			<id>24832985</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="17739" dir="+" offset="7" extent="26" />
+				
+			</loc>
+			<valid start="2019-03-18T13:32:48Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E 170th St between Walton Ave and Wythe Pl.</text>
+			<delay>16</delay>
+		</ev>
+		<ev>
+			<id>24666333</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.86121" lat="40.753933" />
+				<addr>107th St</addr>
+			</loc>
+			<valid start="2019-03-22T13:01:44Z" end="2019-04-20T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 107th St between 37th Ave and 34th Ave.</text>
+		</ev>
+		<ev>
+			<id>24629801</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.962456" lat="40.767178" />
+				<addr>E 68th St</addr>
+			</loc>
+			<valid start="2019-03-23T13:00:00Z" end="2019-03-31T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on E 68th St EB between 3rd Ave and 2nd Ave.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24179742</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.989624" lat="40.702522" />
+				<addr>Front St</addr>
+			</loc>
+			<valid start="2019-03-07T05:00:00Z" end="2019-04-07T03:58:59Z" />
+			<text lang="e">In Brooklyn, road maintenance operations on Front St between Adams St and Cadman Plz.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24836345</id>
+			<ec>736</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="11268" dir="+" offset="0" extent="74" />
+				
+			</loc>
+			<valid start="2019-03-29T09:20:29Z" end="2019-04-01T09:25:29Z" />
+			<text lang="e">In Rensselaer, road construction on US-20 EB between Broadway and NY-9J. Right lane closed.</text>
+			<delay>5</delay>
+		</ev>
+		<ev>
+			<id>24857356</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.99408" lat="40.64077" />
+				<addr>44th St</addr>
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-05-19T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on 44th St between 12th Ave and Ft Hamilton Pkwy.</text>
+		</ev>
+		<ev>
+			<id>24832979</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.13471" lat="40.57759" />
+				<addr>Lighthouse Ave</addr>
+			</loc>
+			<valid start="2019-03-19T12:10:34Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on Lighthouse Ave between Bend and St George Rd.</text>
+		</ev>
+		<ev>
+			<id>24500622</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.731705" lat="40.766235" />
+				<addr>Browvale Ln</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Browvale Ln near Leith Rd.</text>
+		</ev>
+		<ev>
+			<id>24500613</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="10323" dir="+" offset="60" extent="7" />
+				
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Northern Blvd near Zion St.</text>
+			<delay>76</delay>
+		</ev>
+		<ev>
+			<id>24832982</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.9249" lat="40.82591" />
+				<addr>Walton Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:28:28Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Walton Ave between E 158th St and E 161st St.</text>
+		</ev>
+		<ev>
+			<id>24833025</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83056" lat="40.840202" />
+				<addr>Coddington Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:13:43Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Coddington Ave between Crosby Ave and Gillespie Ave.</text>
+		</ev>
+		<ev>
+			<id>24195454</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.8992" lat="40.86333" />
+				<addr>Morris Ave</addr>
+			</loc>
+			<valid start="2019-03-07T05:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Morris Ave between E 190th St and E 191st St.</text>
+		</ev>
+		<ev>
+			<id>23759319</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.10631" lat="40.588737" />
+				<addr>The Oval</addr>
+			</loc>
+			<valid start="2019-02-21T20:13:38Z" end="2019-05-23T03:58:59Z" />
+			<text lang="e">In Staten Island, road construction on The Oval between Bend and The Plz.</text>
+		</ev>
+		<ev>
+			<id>24857378</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="18449" dir="+" offset="12" extent="14" />
+				
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-06-26T03:58:59Z" />
+			<text lang="e">In Queens, road construction on Hoyt Ave between 31st St and Grand Central Pkwy.</text>
+			<delay>31</delay>
+		</ev>
+		<ev>
+			<id>24857357</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.99332" lat="40.593216" />
+				<addr>Harway Ave</addr>
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Harway Ave between 25th Ave and Bay 38th St.</text>
+		</ev>
+		<ev>
+			<id>24500609</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.770195" lat="40.750973" />
+				<addr>53rd Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 53rd Ave near Oceania St.</text>
+			<delay>16</delay>
+		</ev>
+		<ev>
+			<id>24571327</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.141235" lat="40.57305" />
+				<addr>Lighthouse Ave</addr>
+			</loc>
+			<valid start="2019-03-19T12:10:36Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on Lighthouse Ave between St ANDREW'S Rd and Mace St.</text>
+		</ev>
+		<ev>
+			<id>24891450</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.960236" lat="40.818123" />
+				<addr>W 130th St</addr>
+			</loc>
+			<valid start="2019-03-21T04:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 130th St between Broadway and 12th Ave.</text>
+		</ev>
+		<ev>
+			<id>24832994</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83542" lat="40.840694" />
+				<addr>Maitland Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:00:52Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Maitland Ave between Mayflower Ave and William Pl.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24832977</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.13476" lat="40.57548" />
+				<addr>St George Rd</addr>
+			</loc>
+			<valid start="2019-03-27T11:31:27Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on St George Rd between Hitchcock Ave and Ascot Ave.</text>
+		</ev>
+		<ev>
+			<id>24195455</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.898575" lat="40.864143" />
+				<addr>E 191st St</addr>
+			</loc>
+			<valid start="2019-03-07T05:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on E 191st St between Creston Ave and Morris Ave.</text>
+		</ev>
+		<ev>
+			<id>23061379</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.99556" lat="40.730717" />
+				<addr>University Pl</addr>
+			</loc>
+			<valid start="2019-02-02T05:00:00Z" end="2019-05-04T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on University Pl near Washington Sq.</text>
+		</ev>
+		<ev>
+			<id>24539639</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83501" lat="40.838108" />
+				<addr>Coddington Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:13:36Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Coddington Ave between E Tremont Ave and Mayflower Ave.</text>
+		</ev>
+		<ev>
+			<id>24500687</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.72962" lat="40.767365" />
+				<addr>Brattle Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Brattle Ave between Leith Pl and Little Neck Pkwy.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>23861679</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98861" lat="40.731323" />
+				<addr>E 11th St</addr>
+			</loc>
+			<valid start="2019-01-18T05:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on E 11th St between 4th Ave and 3rd Ave.</text>
+		</ev>
+		<ev>
+			<id>24500681</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73557" lat="40.768658" />
+				<addr>Hand Rd</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Hand Rd between Dead End and 251st St.</text>
+		</ev>
+		<ev>
+			<id>24833003</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.85987" lat="40.89675" />
+				<addr>Bronx Blvd</addr>
+			</loc>
+			<valid start="2019-03-18T13:34:29Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Bronx Blvd between E 236th St and E 237th St.</text>
+			<delay>71</delay>
+		</ev>
+		<ev>
+			<id>24833668</id>
+			<ec>24</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.50322" lat="40.562477" />
+				<addr>Baekeland Ave</addr>
+			</loc>
+			<valid start="2019-01-08T11:04:06Z" end="2019-03-31T22:15:01Z" />
+			<text lang="e">In Piscataway, bridge closed on Baekeland Ave EB between Field Ave and Cedar Ave.</text>
+		</ev>
+		<ev>
+			<id>24832922</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98286" lat="40.690342" />
+				<addr>Fleet St</addr>
+			</loc>
+			<valid start="2019-01-08T20:18:36Z" end="2019-04-08T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Fleet St between Flatbush Avenue Ext and Dead End.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>22297319</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.0755" lat="40.61224" />
+				<addr>Amity St</addr>
+			</loc>
+			<valid start="2019-01-11T05:00:00Z" end="2019-04-12T03:58:59Z" />
+			<text lang="e">In Staten Island, road maintenance operations on Amity St between White Plains Ave and Dead End.</text>
+		</ev>
+		<ev>
+			<id>24836342</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="12773" dir="+" offset="97" extent="3" />
+				
+			</loc>
+			<valid start="2019-03-29T09:20:29Z" end="2019-04-01T09:25:29Z" />
+			<text lang="e">In Hague, closed due to road construction on NY-9N SB between Locust Ln and Dock Rd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24800513</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83206" lat="40.84038" />
+				<addr>Edison Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:05:12Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Edison Ave near Harrington Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24425605</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.959595" lat="40.731853" />
+				<addr>India St</addr>
+			</loc>
+			<valid start="2019-03-15T04:00:00Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on India St between West St and Dead End.</text>
+		</ev>
+		<ev>
+			<id>24902185</id>
+			<ec>243</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="5028" dir="-" offset="76" extent="1" />
+				
+			</loc>
+			<valid start="2019-03-31T21:09:24Z" end="2019-03-31T21:44:24Z" />
+			<text lang="e">In Bronx, accident on I-278 EB near I-895. Left lane blocked.</text>
+		</ev>
+		<ev>
+			<id>24735439</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.00334" lat="40.73554" />
+				<addr>Perry St</addr>
+			</loc>
+			<valid start="2019-03-25T15:06:15Z" end="2019-05-26T03:58:59Z" />
+			<text lang="e">In Manhattan, paving operations on Perry St near W 4th St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24325478</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98881" lat="40.66617" />
+				<addr>14th St</addr>
+			</loc>
+			<valid start="2019-03-12T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on 14th St between 5th Ave and 6th Ave.</text>
+		</ev>
+		<ev>
+			<id>24666331</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.005646" lat="40.731552" />
+				<addr>Barrow St</addr>
+			</loc>
+			<valid start="2019-03-12T19:55:02Z" end="2019-04-12T03:58:59Z" />
+			<text lang="e">In Manhattan, road maintenance operations on Barrow St between Bend and Commerce St.</text>
+		</ev>
+		<ev>
+			<id>24820801</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95746" lat="40.58301" />
+				<addr>Guider Ave</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-04T03:59:59Z" />
+			<text lang="e">In Brooklyn, paving operations on Guider Ave between E 11th St and E 12th St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>22947756</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.74125" lat="40.707127" />
+				<addr>111th Ave</addr>
+			</loc>
+			<valid start="2019-01-30T05:00:00Z" end="2019-05-01T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on 111th Ave near 216th St.</text>
+		</ev>
+		<ev>
+			<id>24075161</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.89427" lat="40.81313" />
+				<addr>E 156th St</addr>
+			</loc>
+			<valid start="2019-03-03T05:00:00Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on E 156th St between Barry St and Truxton St.</text>
+		</ev>
+		<ev>
+			<id>23317405</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.998795" lat="40.7145" />
+				<addr>Park St</addr>
+			</loc>
+			<valid start="2019-02-10T05:00:00Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Manhattan, major road construction on Park St between Mulberry St and Mott St.</text>
+		</ev>
+		<ev>
+			<id>24901391</id>
+			<ec>507</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="5852" dir="+" offset="95" extent="5" />
+				
+			</loc>
+			<valid start="2019-03-31T20:15:44Z" end="2019-03-31T21:32:06Z" />
+			<text lang="e">In Albany, right lane blocked on I-87 SB near Ny State Thruway 24 Toll Booths.</text>
+		</ev>
+		<ev>
+			<id>24650833</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98825" lat="40.73776" />
+				<addr>E 19th St</addr>
+			</loc>
+			<valid start="2019-03-23T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on E 19th St between Broadway and Park Ave.</text>
+			<delay>2</delay>
+		</ev>
+		<ev>
+			<id>24388156</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.936745" lat="40.74996" />
+				<addr>41st Ave</addr>
+			</loc>
+			<valid start="2019-03-14T04:00:00Z" end="2019-04-06T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 41st Ave between Queens Plz and 29th St.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24348817</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.99337" lat="40.747246" />
+				<addr>W 28th St</addr>
+			</loc>
+			<valid start="2019-03-15T11:00:00Z" end="2019-03-31T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on W 28th St EB between 7th Ave and 6th Ave.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24482666</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16647" dir="+" offset="48" extent="52" />
+				
+			</loc>
+			<valid start="2019-03-17T04:00:00Z" end="2019-06-16T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Nevins St between Flatbush Ave and Livingston St.</text>
+			<delay>21</delay>
+		</ev>
+		<ev>
+			<id>24800517</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83137" lat="40.847336" />
+				<addr>Buhre Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:56:42Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Buhre Ave near Hobart Ave.</text>
+			<delay>16</delay>
+		</ev>
+		<ev>
+			<id>24348826</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.93262" lat="40.776154" />
+				<addr>4th St</addr>
+			</loc>
+			<valid start="2019-03-15T04:01:00Z" end="2019-04-15T03:59:00Z" />
+			<text lang="e">In Queens, closed due to road construction on 4th St SB between 26th Ave and 27th Ave.</text>
+		</ev>
+		<ev>
+			<id>24500673</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.96091" lat="40.77491" />
+				<addr>E 78th St</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on E 78th St between Lexington Ave and Park Ave.</text>
+			<delay>3</delay>
+		</ev>
+		<ev>
+			<id>24900905</id>
+			<ec>646</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="4786" dir="-" offset="88" extent="11" />
+				
+			</loc>
+			<valid start="2019-03-31T19:58:00Z" end="2019-03-31T21:35:02Z" />
+			<text lang="e">In Leonia, one lane blocked on New Jersey Tpke NB near US-9W.</text>
+		</ev>
+		<ev>
+			<id>24619022</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16632" dir="+" offset="13" extent="6" />
+				
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-23T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Myrtle Ave between Myrtle Ave and Woodbine St.</text>
+			<delay>133</delay>
+		</ev>
+		<ev>
+			<id>24800476</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77179" lat="40.704617" />
+				<addr>185th St</addr>
+			</loc>
+			<valid start="2019-03-13T15:07:19Z" end="2019-04-16T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 185th St near Liberty Ave.</text>
+		</ev>
+		<ev>
+			<id>21994451</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.92636" lat="40.731243" />
+				<addr>Laurel Hill Blvd</addr>
+			</loc>
+			<valid start="2018-11-12T05:00:00Z" end="2019-06-01T03:59:00Z" />
+			<text lang="e">In Queens, closed due to road construction on Laurel Hill Blvd SB between 54th Rd and 56th Rd.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24820828</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.87807" lat="40.87245" />
+				<addr>Hull Ave</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-12T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Hull Ave between E Mosholu Pkwy and E 204th St.</text>
+		</ev>
+		<ev>
+			<id>24012239</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.86767" lat="40.658134" />
+				<addr>Vandalia Ave</addr>
+			</loc>
+			<valid start="2019-03-01T05:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Vandalia Ave between Erskine St and Fountain Ave.</text>
+			<delay>5</delay>
+		</ev>
+		<ev>
+			<id>24893804</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.11132" lat="40.597553" />
+				<addr>Willow Pond Rd</addr>
+			</loc>
+			<valid start="2019-03-06T12:00:31Z" end="2019-04-06T03:58:59Z" />
+			<text lang="e">In Staten Island, road maintenance operations on Willow Pond Rd between Buttonwood Rd and Todt Hill Rd.</text>
+		</ev>
+		<ev>
+			<id>24857384</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="18449" dir="+" offset="0" extent="16" />
+				
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-06-26T03:58:59Z" />
+			<text lang="e">In Queens, road construction on Hoyt Ave between 31st St and 33rd St.</text>
+			<delay>36</delay>
+		</ev>
+		<ev>
+			<id>24832949</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="17145" dir="-" offset="0" extent="6" />
+				
+			</loc>
+			<valid start="2019-02-25T22:20:55Z" end="2019-05-27T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W Houston St between Washington St and Joe Dimaggio Hwy.</text>
+			<delay>287</delay>
+		</ev>
+		<ev>
+			<id>24365850</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.93338" lat="40.77471" />
+				<addr>4th St</addr>
+			</loc>
+			<valid start="2019-03-15T04:01:00Z" end="2019-04-15T03:59:00Z" />
+			<text lang="e">In Queens, closed due to road construction on 4th St NB between 27th Ave and 26th Ave.</text>
+		</ev>
+		<ev>
+			<id>24539574</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.834656" lat="40.84071" />
+				<addr>Maitland Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:00:54Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Maitland Ave near Mayflower Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24539682</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.831505" lat="40.84766" />
+				<addr>Hobart Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:56:44Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Hobart Ave between Nycta Subway and Buhre Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24500680</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73516" lat="40.769547" />
+				<addr>Hand Rd</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Hand Rd between Dead End and Browvale Ln.</text>
+		</ev>
+		<ev>
+			<id>24270131</id>
+			<ec>24</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.10944" lat="40.854683" />
+				<addr>8th St</addr>
+			</loc>
+			<valid start="2018-11-28T21:48:14Z" end="2019-04-01T07:52:48Z" />
+			<text lang="e">In Wallington, bridge closed on 8th St NB between Main Ave and Wall St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24049282</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.9045" lat="40.830624" />
+				<addr>Fulton Ave</addr>
+			</loc>
+			<valid start="2019-03-02T05:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Fulton Ave between E 168th St and E 167th St.</text>
+		</ev>
+		<ev>
+			<id>24084805</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95503" lat="40.712914" />
+				<addr>Hope St</addr>
+			</loc>
+			<valid start="2019-03-04T05:00:00Z" end="2019-05-02T03:58:59Z" />
+			<text lang="e">In Brooklyn, road maintenance operations on Hope St between Marcy Ave and Havemeyer St.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24735880</id>
+			<ec>407</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="27995" dir="-" offset="0" extent="0" />
+				
+			</loc>
+			<valid start="2019-03-26T08:30:00Z" end="2019-04-01T09:00:00Z" />
+			<text lang="e">Off-ramp closed on Garden State Pkwy NB near Pnc Arts Center.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24833012</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.8329" lat="40.83691" />
+				<addr>Puritan Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:22:59Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Puritan Ave between La Salle Ave and Waterbury Ave.</text>
+		</ev>
+		<ev>
+			<id>24803108</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.144585" lat="40.574047" />
+				<addr>St George Rd</addr>
+			</loc>
+			<valid start="2019-03-27T11:31:33Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on St George Rd between Rigby Ave and Picadilly Pl.</text>
+		</ev>
+		<ev>
+			<id>24833002</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="18379" dir="+" offset="0" extent="4" />
+				
+			</loc>
+			<valid start="2019-03-18T13:38:43Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E Gun Hill Rd between Kingsland Ave and Kingsland Ave.</text>
+			<delay>57</delay>
+		</ev>
+		<ev>
+			<id>24799470</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.959785" lat="40.766857" />
+				<addr>E 69th St</addr>
+			</loc>
+			<valid start="2019-03-30T13:00:00Z" end="2019-04-07T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on E 69th St WB between 2nd Ave and 1st Ave.</text>
+		</ev>
+		<ev>
+			<id>23342416</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="6816" dir="-" offset="83" extent="17" />
+				
+			</loc>
+			<valid start="2019-02-11T05:00:00Z" end="2019-05-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Ocean Pkwy between Avenue P and Avenue O.</text>
+			<delay>181</delay>
+		</ev>
+		<ev>
+			<id>24832950</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98579" lat="40.735207" />
+				<addr>E 17th St</addr>
+			</loc>
+			<valid start="2019-03-21T19:09:03Z" end="2019-06-20T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on E 17th St between Irving Pl and 3rd Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24894915</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="6668" dir="-" offset="0" extent="100" />
+				
+			</loc>
+			<valid start="2019-03-31T11:13:27Z" end="2019-04-01T11:18:27Z" />
+			<text lang="e">In Hempstead, closed due to road construction on Loop Pky EB between Lido Blvd and Meadowbrook State Pky.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24889181</id>
+			<ec>803</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19550" dir="+" offset="0" extent="100" />
+				
+			</loc>
+			<valid start="2018-09-27T20:24:29Z" end="2019-04-01T01:25:08Z" />
+			<text lang="e">In Avon-by-the-Sea, construction work on NJ-71 SB between Sylvania Ave and Main St.</text>
+			<delay>13</delay>
+		</ev>
+		<ev>
+			<id>24898183</id>
+			<ec>409</ec>
+			<se>1</se>
+			<loc type="geo">
+				<geo lon="-74.03579" lat="40.771988" />
+				<addr>31st</addr>
+			</loc>
+			<valid start="2019-03-25T16:14:47Z" end="2019-04-01T16:48:57Z" />
+			<text lang="e">Ramp restrictions on 31st WB near John F Kennedy Blvd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24539599</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83025" lat="40.839233" />
+				<addr>Gillespie Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:18:49Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Gillespie Ave near La Salle Ave.</text>
+		</ev>
+		<ev>
+			<id>23662797</id>
+			<ec>409</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="5024" dir="+" offset="0" extent="0" />
+				
+			</loc>
+			<valid start="2019-02-20T03:00:00Z" end="2019-04-30T09:00:00Z" />
+			<text lang="e">Ramp restrictions on I-278 WB near I-87.</text>
+			<delay>11</delay>
+		</ev>
+		<ev>
+			<id>22328547</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.9996" lat="40.753925" />
+				<addr>W 33 St</addr>
+			</loc>
+			<valid start="2019-01-11T19:39:00Z" end="2019-04-30T04:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on W 33 St WB between 10 Ave and 11 Ave.</text>
+			<delay>7</delay>
+		</ev>
+		<ev>
+			<id>24539694</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.82857" lat="40.846268" />
+				<addr>Mahan Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:54:19Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Mahan Ave between Buhre Ave and Roberts Ave.</text>
+		</ev>
+		<ev>
+			<id>24832951</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.99416" lat="40.741028" />
+				<addr>W 20th St</addr>
+			</loc>
+			<valid start="2019-03-12T20:23:55Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 20th St between 6th Ave and 5th Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24836025</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.01122" lat="40.70628" />
+				<addr>Broad St</addr>
+			</loc>
+			<valid start="2019-03-30T16:01:00Z" end="2019-04-01T03:59:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on Broad St NB between Exchange Pl and Wall St.</text>
+			<delay>21</delay>
+		</ev>
+		<ev>
+			<id>24833032</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83025" lat="40.845634" />
+				<addr>Hobart Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:56:41Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Hobart Ave between Buhre Ave and Roberts Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24874007</id>
+			<ec>743</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="13426" dir="+" offset="44" extent="61" />
+				
+			</loc>
+			<valid start="2019-03-30T10:28:11Z" end="2019-04-01T10:33:11Z" />
+			<text lang="e">In West Springfield Town, road construction on MA-147 WB between River St and MA-75. Roadway reduced to one lane.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24539623</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.91377" lat="40.838722" />
+				<addr>E 170th St</addr>
+			</loc>
+			<valid start="2019-03-18T13:32:52Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E 170th St near Grand Concourse.</text>
+			<delay>6</delay>
+		</ev>
+		<ev>
+			<id>24800484</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.92348" lat="40.825413" />
+				<addr>E 158th St</addr>
+			</loc>
+			<valid start="2019-03-18T13:24:39Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E 158th St near Grand Concourse.</text>
+		</ev>
+		<ev>
+			<id>24901599</id>
+			<ec>646</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="12161" dir="+" offset="51" extent="5" />
+				
+			</loc>
+			<valid start="2019-03-31T20:27:29Z" end="2019-03-31T21:23:05Z" />
+			<text lang="e">In Clifton Park, one lane blocked on NY-146 near Maxwell Dr.</text>
+		</ev>
+		<ev>
+			<id>24012246</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.892166" lat="40.84105" />
+				<addr>Crotona Park</addr>
+			</loc>
+			<valid start="2019-03-01T05:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Crotona Park between Marmion Ave and Prospect Ave.</text>
+		</ev>
+		<ev>
+			<id>22587159</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.85816" lat="40.759624" />
+				<addr>112th St</addr>
+			</loc>
+			<valid start="2019-01-18T17:42:38Z" end="2019-04-12T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on 112th St near Astoria Blvd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24129633</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.904625" lat="40.84328" />
+				<addr>Anthony Ave</addr>
+			</loc>
+			<valid start="2019-03-04T14:32:59Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Anthony Ave between E 173rd St and Clay Ave.</text>
+		</ev>
+		<ev>
+			<id>24880343</id>
+			<ec>1527</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.9867" lat="41.436443" />
+				<addr>NY-218</addr>
+			</loc>
+			<valid start="2019-02-02T13:04:00Z" end="2019-04-01T18:52:58Z" />
+			<text lang="e">In Cornwall, closed due to major event on NY-218 SB between Winterview Ln and US-9W.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24832989</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.89798" lat="40.86673" />
+				<addr>E 193rd St</addr>
+			</loc>
+			<valid start="2019-03-01T20:17:54Z" end="2019-04-30T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on E 193rd St between Jerome Ave and Morris Ave.</text>
+		</ev>
+		<ev>
+			<id>24500614</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.736176" lat="40.76616" />
+				<addr>Marathon Pkwy</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Marathon Pkwy near Thebes Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>23226878</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.909035" lat="40.885483" />
+				<addr>W 235th St</addr>
+			</loc>
+			<valid start="2019-02-06T13:05:09Z" end="2019-04-23T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on W 235th St between Johnson Ave and Oxford Ave.</text>
+		</ev>
+		<ev>
+			<id>24539555</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.85259" lat="40.893616" />
+				<addr>Bronxwood Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:52:16Z" end="2019-06-15T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Bronxwood Ave near E 235th St.</text>
+			<delay>41</delay>
+		</ev>
+		<ev>
+			<id>22435048</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.00572" lat="40.721752" />
+				<addr>St Johns Ln</addr>
+			</loc>
+			<valid start="2019-01-14T21:06:20Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on St Johns Ln between York St and Laight St.</text>
+			<delay>8</delay>
+		</ev>
+		<ev>
+			<id>24075162</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.89089" lat="40.825706" />
+				<addr>Hoe Ave</addr>
+			</loc>
+			<valid start="2019-03-03T05:00:00Z" end="2019-06-02T03:58:59Z" />
+			<text lang="e">In Bronx, road maintenance operations on Hoe Ave between E 167th St and W Farms Rd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24701120</id>
+			<ec>641</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="5128" dir="-" offset="99" extent="1" />
+				
+			</loc>
+			<valid start="2019-03-25T05:09:01Z" end="2019-04-01T04:16:41Z" />
+			<text lang="e">In Manhattan, one lane closed on Henry Hudson Pkwy NB between Dyckman St and New York-Bronx County Ln.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>23481982</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.92555" lat="40.732525" />
+				<addr>54th Ave</addr>
+			</loc>
+			<valid start="2018-11-12T05:00:00Z" end="2020-01-01T04:59:00Z" />
+			<text lang="e">In Queens, closed due to road construction on 54th Ave EB between Laurel Hill Blvd and 43rd St.</text>
+		</ev>
+		<ev>
+			<id>24833004</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.85656" lat="40.894875" />
+				<addr>E 235th St</addr>
+			</loc>
+			<valid start="2019-03-18T12:52:09Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on E 235th St between Byron Ave and Nycta Subway.</text>
+		</ev>
+		<ev>
+			<id>24634067</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.13746" lat="40.54731" />
+				<addr>Fairlawn Ave</addr>
+			</loc>
+			<valid start="2019-03-21T12:05:44Z" end="2019-06-20T03:58:59Z" />
+			<text lang="e">In Staten Island, road maintenance operations on Fairlawn Ave between Fairlawn Loop and Fairlawn Loop.</text>
+		</ev>
+		<ev>
+			<id>24833043</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.90945" lat="40.817062" />
+				<addr>Cauldwell Ave</addr>
+			</loc>
+			<valid start="2019-03-21T17:38:47Z" end="2019-04-11T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Cauldwell Ave between Nycta Subway and E 156th St.</text>
+		</ev>
+		<ev>
+			<id>24500617</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73809" lat="40.7652" />
+				<addr>248th St</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 248th St near Thebes Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>23918981</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.09214" lat="40.622887" />
+				<addr>Bertha Pl</addr>
+			</loc>
+			<valid start="2019-02-27T05:00:00Z" end="2019-05-29T03:58:59Z" />
+			<text lang="e">In Staten Island, road construction on Bertha Pl between Grymes Hill Rd and Bend.</text>
+		</ev>
+		<ev>
+			<id>24820800</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95901" lat="40.58285" />
+				<addr>E 11th St</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-04T03:59:59Z" />
+			<text lang="e">In Brooklyn, paving operations on E 11th St near Guider Ave.</text>
+		</ev>
+		<ev>
+			<id>24403433</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77204" lat="40.70554" />
+				<addr>185th St</addr>
+			</loc>
+			<valid start="2019-03-13T15:07:17Z" end="2019-04-16T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 185th St between 104th Ave and Liberty Ave.</text>
+		</ev>
+		<ev>
+			<id>24832967</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.773125" lat="40.701946" />
+				<addr>Dunlop Ave</addr>
+			</loc>
+			<valid start="2019-03-13T15:20:32Z" end="2019-04-16T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Dunlop Ave between Dunkirk St and Hannibal St.</text>
+		</ev>
+		<ev>
+			<id>24788265</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="17653" dir="+" offset="20" extent="33" />
+				
+			</loc>
+			<valid start="2019-03-28T04:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 82nd St between 30th Ave and 31st Ave.</text>
+			<delay>28</delay>
+		</ev>
+		<ev>
+			<id>24702064</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95933" lat="40.740803" />
+				<addr>2nd St</addr>
+			</loc>
+			<valid start="2019-02-11T05:00:00Z" end="2019-05-13T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 2nd St between 54th Ave and Water.</text>
+		</ev>
+		<ev>
+			<id>24889180</id>
+			<ec>803</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19551" dir="-" offset="0" extent="100" />
+				
+			</loc>
+			<valid start="2018-09-27T20:24:17Z" end="2019-04-01T01:25:08Z" />
+			<text lang="e">In Belmar, construction work on NJ-71 NB between Main St and Sylvania Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24539631</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.99866" lat="40.755253" />
+				<addr>W 35th St</addr>
+			</loc>
+			<valid start="2019-03-18T14:32:56Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on W 35th St between 10th Ave and Hudson Blvd.</text>
+			<delay>35</delay>
+		</ev>
+		<ev>
+			<id>24500688</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73032" lat="40.767536" />
+				<addr>Leith Rd</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Leith Rd between Bend and Brattle Ave.</text>
+		</ev>
+		<ev>
+			<id>24848084</id>
+			<ec>407</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.03834" lat="40.77482" />
+				<addr>30th St</addr>
+			</loc>
+			<valid start="2018-09-26T16:09:07Z" end="2019-04-01T09:36:43Z" />
+			<text lang="e">Off-ramp closed on 30th St EB near Columbia Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24836347</id>
+			<ec>742</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.36548" lat="42.240383" />
+				<addr>NY-42</addr>
+			</loc>
+			<valid start="2019-03-29T09:20:29Z" end="2019-04-01T09:25:29Z" />
+			<text lang="e">In Lexington, road construction on NY-42 SB between County Rd and Rappleyea Rd. Single line traffic-alternate directions.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24832954</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="16998" dir="+" offset="0" extent="100" />
+				
+			</loc>
+			<valid start="2019-03-15T04:00:00Z" end="2019-04-14T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Walker St between Broadway and Cortlandt Aly.</text>
+			<delay>4</delay>
+		</ev>
+		<ev>
+			<id>24571313</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.908516" lat="40.681805" />
+				<addr>Granite St</addr>
+			</loc>
+			<valid start="2019-03-19T15:03:30Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Granite St between Broadway and Bushwick Ave.</text>
+		</ev>
+		<ev>
+			<id>22043473</id>
+			<ec>702</ec>
+			<se>3</se>
+			<loc type="geo">
+				<geo lon="-73.90279" lat="40.757473" />
+				<addr>31st Ave</addr>
+			</loc>
+			<valid start="2019-01-02T20:20:13Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Queens, major road construction on 31st Ave near 60th St.</text>
+			<delay>2</delay>
+		</ev>
+		<ev>
+			<id>24833034</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.82969" lat="40.847977" />
+				<addr>Mahan Ave</addr>
+			</loc>
+			<valid start="2019-03-18T12:54:22Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Mahan Ave between Buhre Ave and Willow Ln.</text>
+		</ev>
+		<ev>
+			<id>24832927</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.91392" lat="40.67413" />
+				<addr>Bergen St</addr>
+			</loc>
+			<valid start="2019-03-06T20:07:16Z" end="2019-04-06T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Bergen St between Saratoga Ave and Hopkinson Ave.</text>
+		</ev>
+		<ev>
+			<id>24651164</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.97743" lat="40.753716" />
+				<addr>Vanderbilt Ave</addr>
+			</loc>
+			<valid start="2019-03-23T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Vanderbilt Ave between E 44th St and E 45th St.</text>
+		</ev>
+		<ev>
+			<id>22730761</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.9844" lat="40.687565" />
+				<addr>Bond St</addr>
+			</loc>
+			<valid start="2019-01-24T05:00:00Z" end="2019-04-25T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Bond St between State St and Schermerhorn St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24632996</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.94809" lat="40.774616" />
+				<addr>E 84th</addr>
+			</loc>
+			<valid start="2019-03-23T10:00:00Z" end="2019-04-01T01:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on E 84th EB between York Ave and E End Ave.</text>
+		</ev>
+		<ev>
+			<id>24500696</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.73707" lat="40.76554" />
+				<addr>Thebes Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Thebes Ave between Marathon Pkwy and Zion St.</text>
+		</ev>
+		<ev>
+			<id>24539579</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83211" lat="40.84145" />
+				<addr>Cornell Pl</addr>
+			</loc>
+			<valid start="2019-03-18T13:09:15Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Cornell Pl near Wellman Ave.</text>
+		</ev>
+		<ev>
+			<id>24369196</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.96079" lat="40.716972" />
+				<addr>N 4th St</addr>
+			</loc>
+			<valid start="2019-03-12T20:16:39Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on N 4th St between Wythe Ave and Berry St.</text>
+		</ev>
+		<ev>
+			<id>24500620</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.732895" lat="40.767696" />
+				<addr>Browvale Ln</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on Browvale Ln near Deepdale Pl.</text>
+		</ev>
+		<ev>
+			<id>24901750</id>
+			<ec>211</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="4391" dir="-" offset="16" extent="1" />
+				
+			</loc>
+			<valid start="2019-03-31T20:37:05Z" end="2019-03-31T21:32:06Z" />
+			<text lang="e">In Greenburgh, disabled vehicle in the right shoulder on Sprain Brook State Pkwy NB near Jackson Ave.</text>
+		</ev>
+		<ev>
+			<id>24832956</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.005104" lat="40.731834" />
+				<addr>Bedford St</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-05-12T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Bedford St between Barrow St and Grove St.</text>
+		</ev>
+		<ev>
+			<id>24896471</id>
+			<ec>214</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="25089" dir="+" offset="2" extent="4" />
+				
+			</loc>
+			<valid start="2019-03-31T14:08:51Z" end="2019-03-31T21:28:35Z" />
+			<text lang="e">In Meriden, incident on W Main St near Block 50.</text>
+			<delay>9</delay>
+		</ev>
+		<ev>
+			<id>24619014</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.91256" lat="40.697983" />
+				<addr>Palmetto St</addr>
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-23T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Palmetto St between Irving Ave and Ridgewood Pl.</text>
+		</ev>
+		<ev>
+			<id>21982868</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.94216" lat="40.71506" />
+				<addr>Maspeth Ave</addr>
+			</loc>
+			<valid start="2019-01-01T05:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Maspeth Ave between Humboldt St and Bushwick Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24857372</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.00203" lat="40.73813" />
+				<addr>Jane St</addr>
+			</loc>
+			<valid start="2019-03-30T04:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Jane St between Greenwich Ave and W 4th St.</text>
+		</ev>
+		<ev>
+			<id>24084806</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.10959" lat="40.59739" />
+				<addr>Buttonwood Rd</addr>
+			</loc>
+			<valid start="2019-03-04T05:00:00Z" end="2019-05-02T03:58:59Z" />
+			<text lang="e">In Staten Island, road maintenance operations on Buttonwood Rd between Dead End and Bend.</text>
+		</ev>
+		<ev>
+			<id>24891491</id>
+			<ec>802</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="4739" dir="-" offset="48" extent="342" />
+				
+			</loc>
+			<valid start="2019-03-01T03:17:42Z" end="2019-04-01T04:17:45Z" />
+			<text lang="e">In East Rutherford, long-term road construction on NJ-3 WB between New Jersey Tpke and Park Ave.</text>
+			<delay>1</delay>
+		</ev>
+		<ev>
+			<id>24675751</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19003" dir="+" offset="7" extent="1" />
+				
+			</loc>
+			<valid start="2019-03-24T04:00:00Z" end="2019-04-25T03:58:59Z" />
+			<text lang="e">In Staten Island, road construction on Richmond Ter between Newark Ave and Bayonne Brg.</text>
+			<delay>17</delay>
+		</ev>
+		<ev>
+			<id>24075159</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.915726" lat="40.816406" />
+				<addr>Bergen Ave</addr>
+			</loc>
+			<valid start="2019-03-03T05:00:00Z" end="2019-04-03T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Bergen Ave between E 152nd St and Westchester Ave.</text>
+		</ev>
+		<ev>
+			<id>24883007</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.948235" lat="40.6784" />
+				<addr>Atlantic Ave</addr>
+			</loc>
+			<valid start="2019-03-31T04:00:00Z" end="2019-06-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Atlantic Ave between Nostrand Ave and New York Ave.</text>
+			<delay>2</delay>
+		</ev>
+		<ev>
+			<id>24895943</id>
+			<ec>409</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="5190" dir="-" offset="0" extent="0" />
+				
+			</loc>
+			<valid start="2019-01-10T20:26:12Z" end="2019-03-31T21:30:50Z" />
+			<text lang="e">Ramp restrictions on Grand Central Pky WB near NY-25A.</text>
+			<delay>3</delay>
+		</ev>
+		<ev>
+			<id>24770301</id>
+			<ec>407</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="4966" dir="+" offset="0" extent="0" />
+				
+			</loc>
+			<valid start="2018-07-10T21:52:57Z" end="2019-04-01T01:43:12Z" />
+			<text lang="e">Off-ramp closed on US-1 SB near Raymond Blvd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24832931</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.94339" lat="40.69529" />
+				<addr>Vernon Ave</addr>
+			</loc>
+			<valid start="2019-03-19T19:43:11Z" end="2019-04-17T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Vernon Ave between Tompkins Ave and Throop Ave.</text>
+		</ev>
+		<ev>
+			<id>24876064</id>
+			<ec>803</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="10447" dir="-" offset="37" extent="3" />
+				
+			</loc>
+			<valid start="2018-03-09T15:53:28Z" end="2019-04-01T13:26:34Z" />
+			<text lang="e">In Kearny, construction work on NJ-7 NB near Fish House Rd.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24800478</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.77204" lat="40.70554" />
+				<addr>104th Ave</addr>
+			</loc>
+			<valid start="2019-03-13T15:07:16Z" end="2019-04-16T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 104th Ave near 185th St.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24634062</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19451" dir="+" offset="52" extent="15" />
+				
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Broadway between Ellery St and Park St.</text>
+			<delay>133</delay>
+		</ev>
+		<ev>
+			<id>24832948</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98659" lat="40.718002" />
+				<addr>Suffolk St</addr>
+			</loc>
+			<valid start="2019-03-27T19:11:32Z" end="2019-04-27T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Suffolk St between Delancey St and Broome St.</text>
+		</ev>
+		<ev>
+			<id>24800522</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.828445" lat="40.839844" />
+				<addr>Hobart Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:21:10Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Hobart Ave near La Salle Ave.</text>
+		</ev>
+		<ev>
+			<id>23393888</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.00805" lat="40.739376" />
+				<addr>Gansevoort St</addr>
+			</loc>
+			<valid start="2019-02-11T17:43:22Z" end="2019-04-13T03:58:59Z" />
+			<text lang="e">In Manhattan, road construction on Gansevoort St between Washington St and 9th Ave.</text>
+		</ev>
+		<ev>
+			<id>24874419</id>
+			<ec>740</ec>
+			<se>3</se>
+			<loc type="tmc">
+				<start id="4823" dir="+" offset="0" extent="39" />
+				
+			</loc>
+			<valid start="2019-01-03T00:00:00Z" end="2020-12-31T04:59:59Z" />
+			<text lang="e">In Rye town, road construction on I-95 SB between Rye and Port Chester. Two lanes closed.</text>
+			<delay>11</delay>
+		</ev>
+		<ev>
+			<id>24800530</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.8269" lat="40.839924" />
+				<addr>Hollywood Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:21:16Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Hollywood Ave near La Salle Ave.</text>
+		</ev>
+		<ev>
+			<id>24835929</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.90896" lat="40.830227" />
+				<addr>Park Ave</addr>
+			</loc>
+			<valid start="2019-03-29T04:00:00Z" end="2019-04-27T03:58:59Z" />
+			<text lang="e">In Bronx, road construction on Park Ave between E 167th St and E 168th St.</text>
+		</ev>
+		<ev>
+			<id>24634056</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="19451" dir="+" offset="18" extent="14" />
+				
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Broadway between Arion Pl and Belvedere St.</text>
+			<delay>160</delay>
+		</ev>
+		<ev>
+			<id>23482005</id>
+			<ec>739</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="19707" dir="+" offset="0" extent="100" />
+				
+			</loc>
+			<valid start="2019-01-02T14:16:17Z" end="2019-11-09T05:00:00Z" />
+			<text lang="e">In Greenburgh, road construction on NY-100C EB between Saw Mill River Rd and Woods Rd. Shoulder closed.</text>
+			<delay>4</delay>
+		</ev>
+		<ev>
+			<id>24803115</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.13122" lat="40.57628" />
+				<addr>St George Rd</addr>
+			</loc>
+			<valid start="2019-03-27T11:31:24Z" end="2019-06-01T03:59:59Z" />
+			<text lang="e">In Staten Island, paving operations on St George Rd between Boyle Pl and Hitchcock Ave.</text>
+		</ev>
+		<ev>
+			<id>24771183</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-73.964294" lat="40.764675" />
+				<addr>E 64th St</addr>
+			</loc>
+			<valid start="2019-03-31T13:00:00Z" end="2019-03-31T22:00:00Z" />
+			<text lang="e">In Manhattan, closed due to road construction on E 64th St EB between 3rd Ave and 2nd Ave.</text>
+		</ev>
+		<ev>
+			<id>24553058</id>
+			<ec>401</ec>
+			<se>4</se>
+			<loc type="geo">
+				<geo lon="-74.00554" lat="40.74582" />
+				<addr>W 20th St</addr>
+			</loc>
+			<valid start="2019-03-30T10:00:00Z" end="2019-03-31T22:00:00Z" />
+			<text lang="e">In Manhattan, closed on W 20th St WB between 10th Ave and 11th Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>23759318</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.72991" lat="40.723274" />
+				<addr>93rd Rd</addr>
+			</loc>
+			<valid start="2019-02-21T19:23:13Z" end="2019-05-16T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 93rd Rd between 239th St and Gettysburg St.</text>
+		</ev>
+		<ev>
+			<id>24901716</id>
+			<ec>244</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="5223" dir="+" offset="0" extent="7" />
+				
+			</loc>
+			<valid start="2019-03-31T20:39:29Z" end="2019-03-31T21:28:04Z" />
+			<text lang="e">In Hempstead, accident on Southern State Pky WB near Hempstead Ave. Shoulder blocked.</text>
+		</ev>
+		<ev>
+			<id>24800518</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83075" lat="40.840973" />
+				<addr>Gillespie Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:05:18Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Gillespie Ave near Harrington Ave.</text>
+		</ev>
+		<ev>
+			<id>24800508</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83105" lat="40.83893" />
+				<addr>Edison Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:18:46Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Edison Ave near La Salle Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24500611</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.771996" lat="40.750477" />
+				<addr>53rd Ave</addr>
+			</loc>
+			<valid start="2019-03-18T04:00:00Z" end="2019-04-23T03:59:59Z" />
+			<text lang="e">In Queens, paving operations on 53rd Ave near 207th St.</text>
+			<delay>16</delay>
+		</ev>
+		<ev>
+			<id>24832933</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="6813" dir="+" offset="88" extent="46" />
+				
+			</loc>
+			<valid start="2019-03-27T14:26:57Z" end="2019-06-25T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Ocean Pkwy between Avenue T and Avenue U.</text>
+			<delay>210</delay>
+		</ev>
+		<ev>
+			<id>22587166</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="17796" dir="+" offset="11" extent="5" />
+				
+			</loc>
+			<valid start="2019-01-18T17:38:39Z" end="2019-04-12T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on Astoria Blvd between 112th St and Grnd Cntrl Pkwy Entrance.</text>
+			<delay>127</delay>
+		</ev>
+		<ev>
+			<id>24895458</id>
+			<ec>707</ec>
+			<se>1</se>
+			<loc type="tmc">
+				<start id="7552" dir="+" offset="14" extent="71" />
+				
+			</loc>
+			<valid start="2019-03-29T11:56:00Z" end="2019-04-01T12:07:29Z" />
+			<text lang="e">In Stafford, bridge maintenance operations on NJ-72 EB between East Bay Ave and Shore Ave.</text>
+			<delay>0</delay>
+		</ev>
+		<ev>
+			<id>24832932</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.95706" lat="40.70976" />
+				<addr>S 4th St</addr>
+			</loc>
+			<valid start="2019-03-05T05:00:00Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on S 4th St between Marcy Ave and Bend.</text>
+		</ev>
+		<ev>
+			<id>24890118</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="tmc">
+				<start id="13248" dir="+" offset="26" extent="74" />
+				
+			</loc>
+			<valid start="2019-01-23T17:56:40Z" end="2019-04-01T02:22:40Z" />
+			<text lang="e">In Toms River, road construction on NJ-166 SB between Old Freehold Rd and NJ-37.</text>
+			<delay>12</delay>
+		</ev>
+		<ev>
+			<id>24832965</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.93857" lat="40.74342" />
+				<addr>29th St</addr>
+			</loc>
+			<valid start="2019-01-04T18:04:35Z" end="2019-04-02T03:58:59Z" />
+			<text lang="e">In Queens, road construction on 29th St between Skillman Ave and 47th Ave.</text>
+		</ev>
+		<ev>
+			<id>24891187</id>
+			<ec>735</ec>
+			<se>4</se>
+			<loc type="tmc">
+				<start id="17578" dir="-" offset="5" extent="4" />
+				
+			</loc>
+			<valid start="2019-03-31T11:00:00Z" end="2019-04-01T00:00:00Z" />
+			<text lang="e">In Queens, closed due to road construction on 31st St NB near Hoyt Ave.</text>
+			<delay>90</delay>
+		</ev>
+		<ev>
+			<id>24634059</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.93796" lat="40.697426" />
+				<addr>Stockton St</addr>
+			</loc>
+			<valid start="2019-03-22T04:00:00Z" end="2019-04-09T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Stockton St between Broadway and Lewis Ave.</text>
+		</ev>
+		<ev>
+			<id>24539678</id>
+			<ec>704</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.83154" lat="40.83975" />
+				<addr>Coddington Ave</addr>
+			</loc>
+			<valid start="2019-03-18T13:13:41Z" end="2019-06-16T03:59:59Z" />
+			<text lang="e">In Bronx, paving operations on Coddington Ave between Edison Ave and Gillespie Ave.</text>
+		</ev>
+		<ev>
+			<id>24832921</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.98206" lat="40.69131" />
+				<addr>Fleet St</addr>
+			</loc>
+			<valid start="2019-01-08T20:18:36Z" end="2019-04-08T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Fleet St between Flatbush Avenue Ext and Fleet Pl.</text>
+		</ev>
+		<ev>
+			<id>22947761</id>
+			<ec>703</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-73.74201" lat="40.7073" />
+				<addr>111th Ave</addr>
+			</loc>
+			<valid start="2019-01-30T05:00:00Z" end="2019-05-01T03:58:59Z" />
+			<text lang="e">In Queens, road maintenance operations on 111th Ave between 215th St and 216th St.</text>
+		</ev>
+		<ev>
+			<id>24832937</id>
+			<ec>701</ec>
+			<se>2</se>
+			<loc type="geo">
+				<geo lon="-74.00122" lat="40.671314" />
+				<addr>Bay St</addr>
+			</loc>
+			<valid start="2019-03-27T19:15:20Z" end="2019-04-27T03:58:59Z" />
+			<text lang="e">In Brooklyn, road construction on Bay St between Court St and Smith St.</text>
+		</ev>
+	</ti>
+</incident>
